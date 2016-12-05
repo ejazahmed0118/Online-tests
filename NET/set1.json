@@ -1,0 +1,1299 @@
+[
+{
+	"statement": "Which one of the following does not satisfies the definition of a set?",
+	"statement_img": false,
+	"options": [
+		"{a,b,c,d}",
+		"{9,4,1,2}",
+		"{1,2,3,4,5,6,1}",
+		"{1,2,3,a,b,c}"
+	],
+	"answer": 2,
+	"explanation": "A set cannot have repeated elements.",
+	"subject": "math"
+},
+{
+	"statement": "Solution of the equation <strong><em>x + a = b</em></strong> belongs to <strong>N</strong>, if <strong>a, b &Element; N</strong> and:",
+	"statement_img": false,
+	"options": [
+		"\\( a \\geq b \\)",
+		"\\( a \\leq b \\)",
+		"\\( a \\gt b \\)",
+		"\\( a \\lt b \\)"
+	],
+	"answer": 3,
+	"explanation": "<strong><em>x + a = b &Implies; x = b - a</em></strong>. So <strong>b</strong> must be greater than <strong>a</strong> if <strong>x &Element; N</strong>.",
+	"subject": "math"
+},
+{
+	"statement": "Q &Intersection; Q&prime;.",
+	"statement_img": false,
+	"options": [
+		"Q",
+		"{}",
+		"{0}",
+		"None of these"
+	],
+	"answer": 1,
+	"explanation": "Nothing is common between Q and Q&prime;, hence an empty/null set is the answer.",
+	"subject": "math"
+},
+{
+	"statement": "The imaginary part of (2 - i)(3 + i) is:",
+	"statement_img": false,
+	"options": [
+		"-1",
+		"1",
+		"5",
+		"7"
+	],
+	"answer": 0,
+	"explanation": "The expression solves down to <strong>7 - 1i</strong>. Hence, the imaginary part is <strong>-1</strong>.",
+	"subject": "math"
+},
+{
+	"statement": "Polar form of &omega; is",
+	"statement_img": false,
+	"options": [
+		"cos(120&deg;) + &iota;sin(120&deg;)",
+		"cos(240&deg;) + &iota;sin(240&deg;)",
+		"sin(240&deg;) + &iota;cos(240&deg;)",
+		"sin(120&deg;) + &iota;cos(120&deg;)"
+	],
+	"answer": 0,
+	"explanation": "Convert \\( \\omega = \\frac{-1 + \\sqrt{3}}{2} \\) to polar form by formula.",
+	"subject": "math"
+},
+{
+	"statement": "Which one is tautology?",
+	"statement_img": false,
+	"options": [
+		"p^-p",
+		"\\( (p \\rightarrow q) \\vee p \\)",
+		"\\( (q \\rightarrow p) \\wedge -q \\)",
+		"\\( p \\rightarrow q \\wedge p \\rightarrow q \\)"
+	],
+	"answer": 1,
+	"explanation": "A tautology is always true. The truth table for correct option is: </br><table><thead><tr><td>p</td><td>q</td><td>p &rarr; q</td><td>(p &rarr; q) &Vee; q</td></tr></thead><tbody><tr><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></tbody></table>",
+	"subject": "math"
+},
+{
+	"statement": "\\( \\frac{2x-5}{x^{2}+4} \\) is which type of rational fraction?",
+	"statement_img": false,
+	"options": [
+		"Proper",
+		"Improper",
+		"Linear",
+		"None"
+	],
+	"answer": 0,
+	"explanation": "In a proper fraction, degree of denominator is greater than degree of numerator.",
+	"subject": "math"
+},
+{
+	"statement": "The value of determinant \\( \\begin{vmatrix} b & -1 & a \\\\ a & b & 0 \\\\ 1 & a & b \\end{vmatrix} \\) ?",
+	"statement_img": false,
+	"options": [
+		"\\( 0 \\)",
+		"\\( a^{2} - b^{2} \\)",
+		"\\( a^{3} - b^{3} \\)",
+		"\\( a^{3} + b^{3} \\)"
+	],
+	"answer": 3,
+	"explanation": "Solve the determinant.",
+	"subject": "math"
+},
+{
+	"statement": "The value of \\( \\lim\\limits_{\\delta x \\rightarrow \\infty}\\frac{|\\delta x|}{\\delta x} \\) equals",
+	"statement_img": false,
+	"options": [
+		"0",
+		"1",
+		"-1",
+		"undefined"
+	],
+	"answer": 3,
+	"explanation": "\\( \\frac{\\infty}{\\infty} \\) is undefined like 1/0 is undefined.",
+	"subject": "math"
+},
+{
+	"statement": "Pairs of orders of matrices are given. Which one of them cannot be multiplied together?",
+	"statement_img": false,
+	"options": [
+		"1x2, 2x6",
+		"axb, bxc (where a, b and c are postive integers)",
+		"3x5, 4x1",
+		"mxn, nxp (whera m, n and p are positive integers)"
+	],
+	"answer": 2,
+	"explanation": "For two matrices to be multiplied together, <strong>the number of columns of first matrix must equal number of rows of second matrix</strong>. Therefore, the only pair of matrices in the given options which cannot be multiplied together is <strong>3x5, 4x1</strong>.",
+	"subject": "math"
+},
+{
+	"statement": "When \\( x^{4} + ax + 1 \\) is divided by \\( x - 1 \\), remainder is zero. Then \\( a = ? \\)",
+	"statement_img": false,
+	"options": [
+		"-2",
+		"2",
+		"0",
+		"Undefined"
+	],
+	"answer": 0,
+	"explanation": "Put x - 1 = 0 &Implies; x = 1. Put x = 1 in \\( x^{4} + ax + 1 \\), we get a = -2.",
+	"subject": "math"
+},
+{
+	"statement": "Partial fractions of \\( (x^{2} + 1)(x^{3} + 1) \\) will be of the form:",
+	"statement_img": false,
+	"options": [
+		"\\( \\frac{A}{x - 1} - \\frac{B}{x^{2} - x + 1} \\)",
+		"\\( \\frac{A}{x + 1} - \\frac{B}{x^{2} - x + 1} \\)",
+		"\\( \\frac{A}{x + 1} - Bx + \\frac{C}{x^{2} - x + 1} \\)",
+		"None"
+	],
+	"answer": 2,
+	"explanation": "\\( (x^{2} + 1)(x^{3} + 1) \\) simplifies to \\( (x^{2} + 1)(x + 1)(x^{2} - x + 1) \\). Hence partial fractions will of the form: \\( \\frac{A}{x + 1} - Bx + \\frac{C}{x^{2} - x + 1} \\).",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+{
+	"statement": "Question statement goes here...",
+	"statement_img": false,
+	"options": [
+		"a option",
+		"b option",
+		"c option",
+		"d option"
+	],
+	"answer": 0,
+	"explanation": "explanation here...",
+	"subject": "math"
+},
+
+
+{
+	"statement": "Define Physics.",
+	"statement_img": false,
+	"options": [
+		"2",
+		"11",
+		"10",
+		"none of these"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "physics"
+},
+{
+	"statement": "Electric field is defined as \\( E = \\frac{F}{q_{o}} \\), where q<sub>o</sub> is a small positive charge. If q<sub>o</sub> was a negative charge of the same magnitude, then compared to the original field, the new field",
+	"statement_img": false,
+	"options": [
+		"would point in the same direction, and have the same magnitude.",
+		"would point in the opposite direction, but have the same magnitude.",
+		"would point in the same direction, but have a different magnitude.",
+		"would point in the opposite direction, and have a different magnitude."
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "physics"
+},
+
+
+{
+	"statement": "Two main branches of chemistry are:",
+	"statement_img": false,
+	"options": [
+		"Organic and Inorganic",
+		"Bio and Nuclear",
+		"Organic and Material",
+		"none of these"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "chemistry"
+},
+
+
+{
+	"statement": "The first computer was made by",
+	"statement_img": false,
+	"options": [
+		"Charles Babbage",
+		"Alan Turing",
+		"Bill Gates",
+		"Steve Jobs"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "computer"
+},
+
+
+{
+	"statement": "All the streets looked <u>just</u> the same.",
+	"statement_img": false,
+	"options": [
+		"decisively",
+		"normally",
+		"exactly",
+		"simply"
+	],
+	"answer": 2,
+	"explanation": "<em>Exactly</em> is the word closest in meaning to \"just\".",
+	"subject": "english"
+},
+{
+	"statement": "He is a <u>candid</u> politician.",
+	"statement_img": false,
+	"options": [
+		"frank",
+		"faithful",
+		"fearless",
+		"soft"
+	],
+	"answer": 0,
+	"explanation": "According to dictionary meaning, <em>candid</em> means truthful, straightforward and frank.",
+	"subject": "english"
+},
+{
+	"statement": "<u>Sagacity</u> increases with age.",
+	"statement_img": false,
+	"options": [
+		"wisdom",
+		"love",
+		"maturity",
+		"efficiency"
+	],
+	"answer": 0,
+	"explanation": "<em>Sagacity</em> means Wisdom, Intelligence and Understanding.",
+	"subject": "english"
+},
+{
+	"statement": "It is very <u>discreet</u> while deciding audit matters.",
+	"statement_img": false,
+	"options": [
+		"obstinate",
+		"cunning",
+		"trustworthy",
+		"prudent"
+	],
+	"answer": 3,
+	"explanation": "To be <em>discreet</em> is to be careful and prudent.",
+	"subject": "english"
+},
+{
+	"statement": "It is a <u>scandal</u> that the murderer was declared innocent.",
+	"statement_img": false,
+	"options": [
+		"rumor",
+		"silly notion",
+		"talk",
+		"disgraceful action"
+	],
+	"answer": 3,
+	"explanation": "A <em>scandal</em> is a disgraceful action.",
+	"subject": "english"
+},
+
+
+{
+	"statement": "535 : 7580 : 852 <br> 483 : 9642 : 716 <br> 723 : &nbsp; &nbsp;? &nbsp; &nbsp; : 633 <br> What number should logically replace the question mark?",
+	"statement_img": false,
+	"options": [
+		"4265",
+		"8682",
+		"4254",
+		"7263"
+	],
+	"answer": 2,
+	"explanation": "3<sup>rd</sup> option is the correct one. Because the middle number's first two digits are product of all digits of the left number, and last two digits are product of all digits of the number on right side. Therefore, 7x2x3 = 42 and 6x3x3 = 54. Hence answer is 4254.",
+	"subject": "intelligence"
+},
+{
+	"statement": "<strong>34, 48, ?, 79, 96</strong> <br>What number should replace the question mark?",
+	"statement_img": false,
+	"options": [
+		"62",
+		"63",
+		"64",
+		"65"
+	],
+	"answer": 1,
+	"explanation": "The progression of the given sequence is <strong>+14, +15, +16, +17...</strong> Hence, 48+15 = 63.",
+	"subject": "intelligence"
+},
+{
+	"statement": "A Fish is to sea as a human is to ?",
+	"statement_img": false,
+	"options": [
+		"Water",
+		"Ocean",
+		"Land",
+		"Air"
+	],
+	"answer": 3,
+	"explanation": "Fish can't breath without water and humans can't breath without air.",
+	"subject": "intelligence"
+},
+{
+	"statement": "TURTLE is related to XYVPI as SPAIN is related to:",
+	"statement_img": false,
+	"options": [
+		"WTEMR",
+		"WTEQP",
+		"WTEOR",
+		"VTEOR"
+	],
+	"answer": 0,
+	"explanation": "The difference between TURTLE and XYVPI is of 4 letters. And each letter of WTEMR has a difference of 4 letters with SPAIN, therefore, it is the correct answer.",
+	"subject": "intelligence"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "intelligence"
+},
+{
+	"statement": "If WATER is related to BFYJW, then JUICE is related to:",
+	"statement_img": false,
+	"options": [
+		"OZNWQ",
+		"OZMWJ",
+		"OZMNJ",
+		"OZNHJ"
+	],
+	"answer": 3,
+	"explanation": "WATER has a difference of 5 letters with BFYJW. Similarly, if you move forward each letter of JUICE 5 alphabets ahead, you get OZNHJ.",
+	"subject": "intelligence"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "intelligence"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "intelligence"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "intelligence"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "intelligence"
+}
+]

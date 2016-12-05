@@ -1,0 +1,103 @@
+[
+{
+	"statement": "1 + 1",
+	"statement_img": false,
+	"options": [
+		"2",
+		"11",
+		"10",
+		"none of these"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "math"
+},
+{
+	"statement": "Mathematics is the language of",
+	"statement_img": false,
+	"options": [
+		"nature",
+		"humans",
+		"10",
+		"none of these"
+	],
+	"answer": 0,
+	"explanation": "lorem ipsum",
+	"subject": "math"
+},
+
+
+{
+	"statement": "Define Physics.",
+	"statement_img": false,
+	"options": [
+		"2",
+		"11",
+		"10",
+		"none of these"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "physics"
+},
+
+
+{
+	"statement": "Two main branches of chemistry are:",
+	"statement_img": false,
+	"options": [
+		"Organic and Inorganic",
+		"Bio and Nuclear",
+		"Organic and Material",
+		"none of these"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "chemistry"
+},
+
+
+{
+	"statement": "The first computer was made by",
+	"statement_img": false,
+	"options": [
+		"Charles Babbage",
+		"Alan Turing",
+		"Bill Gates",
+		"Steve Jobs"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "computer"
+},
+
+
+{
+	"statement": "English evolved from",
+	"statement_img": false,
+	"options": [
+		"Greek",
+		"Latin",
+		"Spanish",
+		"none of these"
+	],
+	"answer": 1,
+	"explanation": "lorem ipsum",
+	"subject": "english"
+},
+
+
+{
+	"statement": "If a+b is c, then b+c is:",
+	"statement_img": false,
+	"options": [
+		"2c - a",
+		"a + c",
+		"c - a",
+		"none of these"
+	],
+	"answer": 0,
+	"explanation": "lorem ipsum",
+	"subject": "intelligence"
+}
+]
