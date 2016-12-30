@@ -156,65 +156,65 @@
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "If \\( \\frac{ n! }{ 2!(n - 2)! } \\) and \\( \\frac{ n! }{ 4!(n - 4)! } \\) are in ratio 2:1, then n = ?",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"3",
+		"4",
+		"5",
+		"6"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "explanation here...",
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "Equation \\( n! - (n - 1)! = 4 \\) holds for n = ?",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"2",
+		"3",
+		"4",
+		"5"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "explanation here...",
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "The probability of drawing a card of spades from a deck of 52 playing cards is",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"\\( \\frac{ 1 }{ 52 } \\)",
+		"\\( \\frac{ 1 }{ 16 } \\)",
+		"\\( \\frac{ 1 }{ 8 } \\)",
+		"\\( \\frac{ 1 }{ 4 } \\)"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "explanation here...",
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "\\( ^{2n}C_{r - 1} +\ ^{2n}C_{r - 2} = \\)",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"<sup>2n</sup>C<sub>r</sub>",
+		"<sup>2n</sup>C<sub>r - 1</sub>",
+		"<sup>2n + 1</sup>C<sub>r - 1</sub>",
+		"<sup>2n + 1</sup>C<sub>r - 2</sub>"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "explanation here...",
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "For two mutually exclusive events, <strong>P(A &Intersection; B) = </strong>",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"0",
+		"1",
+		"P(A) . P(B)",
+		"P(A &Union; B)"
 	],
 	"answer": 0,
 	"explanation": "explanation here...",
