@@ -221,39 +221,39 @@
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "\\( (2.02)^{4} = ? \\)",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"15.64966",
+		"15.99998",
+		"16.64966",
+		"16.99998"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "explanation here...",
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "Middle term in the expansion of \\( \\left( \\frac{ 1 }{ x } - \\frac{ x^{2} }{ 2 } \\right)^{12} \\) is",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"\\( \\frac{ 1 }{ 16 }x^{4} \\)",
+		"\\( \\frac{ 231 }{ 16 }x^{6} \\)",
+		"\\( \\frac{ 1 }{ 216 }x^{8} \\)",
+		"\\( \\frac{ 231 }{ 216 }x^{7} \\)"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "explanation here...",
 	"subject": "math"
 },
 {
-	"statement": "Question statement goes here...",
+	"statement": "\\( (100 - 2)^{1/2} \\)",
 	"statement_img": false,
 	"options": [
-		"a option",
-		"b option",
-		"c option",
-		"d option"
+		"9.8995",
+		"6.1415",
+		"6.2122",
+		"10.012"
 	],
 	"answer": 0,
 	"explanation": "explanation here...",
