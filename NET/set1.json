@@ -195,7 +195,7 @@
 	"subject": "math"
 },
 {
-	"statement": "\\( ^{2n}C_{r - 1} +\ ^{2n}C_{r - 2} = \\)",
+	"statement": "\\( ^{2n}C_{r - 1} +\\ ^{2n}C_{r - 2} = \\)",
 	"statement_img": false,
 	"options": [
 		"<sup>2n</sup>C<sub>r</sub>",
