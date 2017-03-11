@@ -1,28 +1,587 @@
 [
 {
-	"statement": "1 + 1",
+	"statement": "Imaginary part of <strong>(2 - <em>i</em>)(3 + <em>i</em>)</strong> is",
 	"statement_img": false,
 	"options": [
-		"2",
-		"11",
-		"10",
-		"none of these"
+		"-1",
+		"1",
+		"5",
+		"7"
 	],
-	"answer": 1,
-	"explanation": "lorem ipsum",
+	"answer": 0,
+	"explanation": "",
 	"subject": "math"
 },
 {
-	"statement": "Mathematics is the language of",
+	"statement": "What is the area of a rectangular room with the length of <strong>|5 - 3i|</strong> and width <strong>|2i|</strong>?",
 	"statement_img": false,
 	"options": [
-		"nature",
-		"humans",
-		"10",
-		"none of these"
+		"6 + 10i",
+		"5 - i",
+		"$$ \\sqrt{34} $$",
+		"$$ 2\\sqrt{34} $$"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Name the property used in the following inequality:</br>-5 < 0 &Implies; 5 > 0",
+	"statement_img": false,
+	"options": [
+		"Additive property",
+		"Multiplication property",
+		"Triangular property",
+		"Both (a) and (b)"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "For two sets A and B, A &union; B = ?",
+	"statement_img": false,
+	"options": [
+		"A - B",
+		"A &intersection; (B &union; A)",
+		"A &union; (A&prime; &union; B)",
+		"None"
 	],
 	"answer": 0,
-	"explanation": "lorem ipsum",
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Which one of the following is a tautology?",
+	"statement_img": false,
+	"options": [
+		"p ^~ p",
+		"(p &rarr; q) &or; p",
+		"(q &rarr; p) ^~ q",
+		"p &rarr; q ^ p &rarr; q"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If A = {a,b,c,d} and B = {0,1,2,3}, then A &times; B = {(a,0),(b,0),(c,3),(d,3)} is",
+	"statement_img": false,
+	"options": [
+		"A function from B to A",
+		"Into function from A to B",
+		"Onto function from A to B",
+		"It is not a function"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The value of determinant \\( \\begin{vmatrix} b & -1 & a \\\\ a & b & 0 \\\\ 1 & a & b \\end{vmatrix} \\) ?",
+	"statement_img": false,
+	"options": [
+		"0",
+		"a<sup>2</sup> - b<sup>2</sup>",
+		"a<sup>3</sup> - b<sup>3</sup>",
+		"a<sup>3</sup> + b<sup>3</sup>"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If A = \\( \\begin{matrix} 5 & 3 \\\\ 1 & 1 \\end{matrix} \\), and AA<sup>-1</sup> = \\( \\begin{matrix} x & y \\\\ z & t \\end{matrix} \\), then <strong>x + y + z + t = ?</strong>",
+	"statement_img": false,
+	"options": [
+		"1",
+		"0",
+		"2",
+		"None"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If the sum of sqaure of an integer and square of its inverse is 2x<sup>2</sup> then integer is?",
+	"statement_img": false,
+	"options": [
+		"2",
+		"1",
+		"<em>-i</em>",
+		"Both (b) and (c)"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "When x<sup>4</sup> + ax + 1 is divided by (x - 1), remainder is zero than a = ?",
+	"statement_img": false,
+	"options": [
+		"0",
+		"2",
+		"-2",
+		"None"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Solution set of \\( \\sqrt{x} + 2\\sqrt{x - 9} \\) = 13, is?",
+	"statement_img": false,
+	"options": [
+		"{1}",
+		"{25}",
+		"{2}",
+		"{9}"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If &alpha;, &beta; are the roots of <strong>2x<sup>2</sup> + 3x + 7 = 0</strong>, then value of &alpha;<sup>2</sup> + &beta;<sup>2</sup> equals to?",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{19}{4} $$",
+		"$$ -\\frac{19}{49} $$",
+		"$$ \\frac{99}{2} $$",
+		"$$ -\\frac{19}{4} $$"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If roots of equation <strong>2x<sup>2</sup> - 7x + k = 0</strong> are real, then the possible value of <strong>k</strong> is?",
+	"statement_img": false,
+	"options": [
+		"3",
+		"9",
+		"8",
+		"7"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Which one is an identity?",
+	"statement_img": false,
+	"options": [
+		"x<sup>2</sup> - 2x + 1 = x",
+		"x<sup>2</sup> + x = x(x + 1)",
+		"2x<sup>2</sup> + 6x = 3(x + 2)",
+		"Both (a) and (b)"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The ninth number in the sequence <strong>1, 4, 8, 13,...</strong> is?",
+	"statement_img": false,
+	"options": [
+		"93",
+		"53",
+		"34",
+		"64"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Find the second term of A.P., whose 6<sup>th</sup> and 8<sup>th</sup> term are 12 and 22 respectively.",
+	"statement_img": false,
+	"options": [
+		"-13",
+		"-8",
+		"2",
+		"6"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The sum of seven A.Ms between 4 and 8 is what?",
+	"statement_img": false,
+	"options": [
+		"84",
+		"56",
+		"42",
+		"48"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The sum of the interior angles for a 10 sided polygon is:",
+	"statement_img": false,
+	"options": [
+		"1440&deg;",
+		"360&deg;",
+		"1080&deg;",
+		"1800&deg;"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The three numbers in A.P., have sum 21 and sum of their squares is 155. The numbers are?",
+	"statement_img": false,
+	"options": [
+		"1,4,9",
+		"5,6,10",
+		"5,7,9",
+		"4,6,8"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If fifth term of G.P. is 48 and common ratio is 2, then the first term is?",
+	"statement_img": false,
+	"options": [
+		"2",
+		"3",
+		"8",
+		"1/2"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Two G.Ms between 20 and 160 are:",
+	"statement_img": false,
+	"options": [
+		"30, 50",
+		"50, 60",
+		"25, 55",
+		"40, 80"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "$$ \\frac{9}{4} + \\frac{3}{2} + 1 + \\frac{2}{3} + ... &infin; = ? $$",
+	"statement_img": false,
+	"options": [
+		"&infin;",
+		"4",
+		"0.275",
+		"6.75"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "$$ \\sum_{i=1}^{50}(1+i^{2}) =\\ ? $$",
+	"statement_img": false,
+	"options": [
+		"42975",
+		"41275",
+		"42925",
+		"5050"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The number of rational numbers \\( \\frac{p}{q} \\), where p &in; {1,2,3}, q &in; {2,3} are?",
+	"statement_img": false,
+	"options": [
+		"5",
+		"3",
+		"6",
+		"8"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Police caught a car with the number <strong>LED 48--</strong> (forgot last 2 digits). In how many possible ways they can guess last two digits?",
+	"statement_img": false,
+	"options": [
+		"20",
+		"720",
+		"220",
+		"100"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Three gentlemen and three ladies are candidates for two vacancies. A person has to vote for two candidates. In how many ways he can cast his vote?",
+	"statement_img": false,
+	"options": [
+		"16",
+		"17",
+		"15",
+		"24"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Two dice are thrown what is the probability of getting sum of dots even?",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{1}{6} $$",
+		"$$ \\frac{2}{5} $$",
+		"$$ \\frac{2}{6} $$",
+		"$$ \\frac{1}{2} $$"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Find the probability of getting two heads in two consecutive tosses of a coin?",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{1}{8} $$",
+		"$$ \\frac{1}{6} $$",
+		"$$ \\frac{3}{8} $$",
+		"$$ \\frac{1}{4} $$"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If x = 3y and 3x - 2y = 7 then y = ?",
+	"statement_img": false,
+	"options": [
+		"0",
+		"1/2",
+		"-1",
+		"1"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "What is the power of <strong>x</strong> in the third term of expansion of \\( \\left(5x - \\frac{7}{x}\\right)^{5} \\)?",
+	"statement_img": false,
+	"options": [
+		"-1",
+		"0",
+		"1/2",
+		"8"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "7<sup>3</sup> - 3<sup>n</sup> is divisible by:",
+	"statement_img": false,
+	"options": [
+		"4",
+		"8",
+		"12",
+		"6"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The sum of even binomial coefficients in the expansion of \\( \\left(\\frac{x^{3}}{2} - \\frac{2}{x^{2}} \\right)^{8} \\) is",
+	"statement_img": false,
+	"options": [
+		"256",
+		"128",
+		"512",
+		"None"
+	],
+	"answer": 1,
+	"explanation": "2<sup>n-1</sup>.",
+	"subject": "math"
+},
+{
+	"statement": "If x<sup>3</sup> and higher powers can be neglected then find a, b in (1 + x)<sup>1/4</sup> + (1 - x)<sup>1/4</sup> = a - bx<sup>2</sup>.",
+	"statement_img": false,
+	"options": [
+		"$$ 2, 3 $$",
+		"$$ 2, \\frac{3}{16} $$",
+		"$$ 1, \\frac{5}{4} $$",
+		"$$ 2, \\frac{1}{8} $$"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If l = 0.8 cm, and r = 2 cm, then area of sector of circle is:?",
+	"statement_img": false,
+	"options": [
+		"0.8 cm",
+		"0.16 cm",
+		"0.14 cm",
+		"2 cm"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "What is the angle between hands of a watch at 5 o'clock?",
+	"statement_img": false,
+	"options": [
+		"160&deg;",
+		"180&deg;",
+		"210&deg;",
+		"None"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If &alpha; is in 4<sup>th</sup> quadrant, then \\( cos\\frac{&alpha;}{2} = ? \\)?",
+	"statement_img": false,
+	"options": [
+		"$$ &PlusMinus;\\sqrt{ \\frac{1 + cos&alpha;}{2} } $$",
+		"$$ -\\sqrt{ \\frac{1 + cos&alpha;}{2} } $$",
+		"$$ \\sqrt{ \\frac{1 + cos&alpha;}{2} } $$",
+		"None of these"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The amplitude of <strong>-sin(x)cos(x)</strong> is:",
+	"statement_img": false,
+	"options": [
+		"-1",
+		"1/2",
+		"-1/2",
+		"1"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "If the period of <strong>y = 3cos(kx)</strong> is 6&pi;, then k = ?",
+	"statement_img": false,
+	"options": [
+		"3",
+		"1",
+		"3&pi;",
+		"1/3"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "The phase shift of <strong>y = sin(4x - 1)</strong> is what?",
+	"statement_img": false,
+	"options": [
+		"$$ 4 $$",
+		"$$ \\frac{1}{4} $$",
+		"$$ -\\frac{1}{4} $$",
+		"$$ \\frac{1}{2&pi;} $$"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Which one is an equation of asymptotes <strong>y = tan(x)</strong>?",
+	"statement_img": false,
+	"options": [
+		"x = &pi;",
+		"x + &pi;",
+		"x + 2&pi; = 0",
+		"2x - &pi; = 0"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "An isosceles triangle has a vertical angle of 60&deg; and base 20 cm, calculate its altitude.",
+	"statement_img": false,
+	"options": [
+		"$$ \\sqrt{3}\\ cm $$",
+		"$$ \\frac{\\sqrt{3}}{10}\\ cm",
+		"$$ 10\\ cm $$",
+		"$$ 17.3\\ cm $$"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "Which one of these formulae is not wrong?",
+	"statement_img": false,
+	"options": [
+		"$$ sin\\frac{&alpha;}{2} = \\sqrt{ \\frac{(s - a)(s - c)}{ac} } $$",
+		"$$ sin\\frac{&beta;}{2} = \\sqrt{ \\frac{(s - a)(s - b)}{ac} } $$",
+		"$$ cos\\frac{&gamma;}{2} = \\sqrt{ \\frac{s(s - c)}{ab} } $$",
+		"$$ cos\\frac{&beta;}{2} = \\sqrt{ \\frac{s(s - b)}{ab} } $$"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "$$ sin\\left[ \\frac{&pi;}{2} - cos^{-1}(\\frac{4}{5}) \\right] = ? $$",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{&pi;}{4} $$",
+		"$$ \\frac{&pi;}{2} $$",
+		"$$ -\\frac{1}{2} $$",
+		"$$ \\frac{4}{5} $$"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "math"
+},
+{
+	"statement": "$$ 2tan^{-1}\\left( \\frac{1}{3} \\right) + cot^{-1}(7) = ? $$",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{&pi;}{4} $$",
+		"$$ \\frac{&pi;}{2} $$",
+		"$$ \\frac{&pi;}{3} $$",
+		"$$ \\frac{&pi;}{6} $$"
+	],
+	"answer": 0,
+	"explanation": "$$ 2tan^{-1}(1/3) + cot^{-1}(7) $$ $$ = tan^{-1}(1/3) + tan^{-1}(1/3) + tan^{-1}(1/7).................[R(2)] $$ $$ = tan^{-1}{(1/3 + 1/3)/(1 - 1/3*1/3)} + tan^{-1}(1/7)................[R(1)] $$ $$ = tan^{-1}(2/3*9/8) + tan^{-1}(1/7) $$ $$ = tan^{-1}(3/4) + tan^{-1}(1/7) $$ $$ = tan^{-1}{(3/4+1/7)/(1-3/28)}................{R(1)] $$ $$ = tan^{-1}{(25/28)/(25/28)} $$ $$ = tan^{-1}(1) $$ $$ = pi/4 $$",
+	"subject": "math"
+},
+{
+	"statement": "?",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": ".",
 	"subject": "math"
 },
 
