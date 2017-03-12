@@ -1029,31 +1029,1174 @@
 
 
 {
-	"statement": "Define Physics.",
+	"statement": "The first operation involved in carnot cycle is:",
 	"statement_img": false,
 	"options": [
-		"2",
-		"11",
-		"10",
-		"none of these"
+		"Isothermal expansion",
+		"Adiabatic expansion",
+		"Isothermal compression",
+		"Adiabatic compression"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Maximum number of components of vector can be up to?",
+	"statement_img": false,
+	"options": [
+		"One",
+		"Three",
+		"Two",
+		"Infinite"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The internal energy of an ideal gas depends upon only:",
+	"statement_img": false,
+	"options": [
+		"Pressure",
+		"Temperature",
+		"Volume",
+		"All of these"
 	],
 	"answer": 1,
-	"explanation": "lorem ipsum",
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "What can we induce about the object from following v-t graph?",
+	"statement_img": "url-to-img",
+	"options": [
+		"Increasing acceleration",
+		"Deceleration",
+		"Constant acceleration",
+		"Zero acceleration"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Ballistic missile fails in some circumstances of precision due to",
+	"statement_img": false,
+	"options": [
+		"Their shape",
+		"Air resistance",
+		"Angle of projection",
+		"All of these"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A body in motion always changes its what?",
+	"statement_img": false,
+	"options": [
+		"Acceleration",
+		"Momentum",
+		"Velocity",
+		"Position vector"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "At which angle range of projectile is maximum?",
+	"statement_img": false,
+	"options": [
+		"40&deg;",
+		"30&deg;",
+		"55&deg;",
+		"45&deg;"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "If a body of mass 2 kg is raised vertically through 2 m, then how much work is done?",
+	"statement_img": false,
+	"options": [
+		"39.2 J",
+		"392.1 J",
+		"39.2 mJ",
+		"39.2 kJ"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The tides raise the water in the sea approximately how many times a day?",
+	"statement_img": false,
+	"options": [
+		"Once",
+		"Four times",
+		"Twice",
+		"Never"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "What will be the ratio of distance moved by a freely falling body in 4<sup>th</sup> and 5<sup>th</sup> second of its journey?",
+	"statement_img": false,
+	"options": [
+		"4:5",
+		"5:5",
+		"16:25",
+		"7:9"
+	],
+	"answer": 3,
+	"explanation": "this one's supposed to have appeared in NET.",
+	"subject": "physics"
+},
+{
+	"statement": "The angular speed for daily rotation of Earth in <strong>rads<sup>-1</sup></strong> is?",
+	"statement_img": false,
+	"options": [
+		"$$ 7.3 \\times 10^{-5}\\ rads^{-1} $$",
+		"$$ 7.3 \\times 10^{-15}\\ rads^{-1} $$",
+		"$$ 7.3 \\times 10^{5}\\ rads^{-1} $$",
+		"$$ 7.3 \\times 10^{15}\\ rads^{-1} $$"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "If a wheel of radius <strong>r</strong> turns through an angle of 30&deg;, then the distance through which any point on its rim moves is:",
+	"statement_img": false,
+	"options": [
+		"$$ r\\left( \\frac{&pi;}{6} \\right) $$",
+		"$$ r\\left( \\frac{&pi;}{3} \\right) $$",
+		"$$ \\left( \\frac{&pi;}{30r} \\right) $$",
+		"$$ \\left( \\frac{&pi;}{180r} \\right) $$"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "In a nuclear reactor, the turbine for producing electricity is run using",
+	"statement_img": false,
+	"options": [
+		"Solar energy",
+		"Explosion",
+		"Steam",
+		"None of these"
+	],
+	"answer": 2,
+	"explanation": "Supposed to have appeared in NET",
+	"subject": "physics"
+},
+{
+	"statement": "Fundamental frequency of stationary waves in open pipe as compared to frequency in the closed pipe is:",
+	"statement_img": false,
+	"options": [
+		"Same",
+		"Four times",
+		"Two times",
+		"Half"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The force experienced by a wall on which water strikes normally at a speed of 10 ms<sup>-1</sup> and at a discharge rate of 0.0001 m<sup>3</sup>s<sup>-1</sup> is:",
+	"statement_img": false,
+	"options": [
+		"1 N",
+		"1000 N",
+		"10 N",
+		"None of these"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Which of the following conclusions results only when the ideal gas law and kinetic theory of gases are both considered?",
+	"statement_img": false,
+	"options": [
+		"P is proportional to T<sup>2</sup>",
+		"P is proportional to v<sup>2</sup>",
+		"T is proportional to v<sub>rms</sub>",
+		"P is proportional to <V<sup>2</sup>>"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The maximum velocity of the spring-mass system is",
+	"statement_img": false,
+	"options": [
+		"$$ x_{o} $$",
+		"$$ x_{o}\\sqrt{ \\frac{k}{m}\\left( 1 - \\frac{ x^{2} }{ x_{o}^{2} } \\right) } $$",
+		"$$ x_{o}\\sqrt{ \\frac{k}{m} } $$",
+		"$$ \\frac{ v_{o} }{ \\sqrt{2} } $$"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Keeping the pressure constant, if the temperature of mono-atomic ideal gas is doubled, the average speed of atoms will?",
+	"statement_img": false,
+	"options": [
+		"Increase by a factor of 4",
+		"Increase by a factor of 2",
+		"Decrease by a factor of 4",
+		"Increase by a factor of \\( \\sqrt{2} \\)"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "An A.C. series circuit has resistance 4 &ohm; and inductive reactance of 3 &ohm;. The impedance will be",
+	"statement_img": false,
+	"options": [
+		"12 &ohm;",
+		"7 &ohm;",
+		"17 &ohm;",
+		"5 &ohm;"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "What is the self-inductance of the coil in which an induced emf of 2 V is set up when the current changes at the rate of 4 As<sup>-1</sup>?",
+	"statement_img": false,
+	"options": [
+		"0.5 H",
+		"0.2 H",
+		"0.5 mH",
+		"0.9 H"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "There are three bulbs of 600 W, 200 W and 300 W, which bulb has the thickest filament?",
+	"statement_img": false,
+	"options": [
+		"200 W",
+		"600 W",
+		"300 W",
+		"All have same thickness"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A 100 &micro;F capacitor with 12 V battery in series having frequency 50 Hz the capacitive reactance will be:",
+	"statement_img": false,
+	"options": [
+		"75 &ohm;",
+		"16 &ohm;",
+		"40 &ohm;",
+		"32 &ohm;"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Stopping potential for metal surface in case of photo-electric emission depends on which of the following?",
+	"statement_img": false,
+	"options": [
+		"The frequency of incident light and work function of the metal surface",
+		"The threshold frequency of the metal surface",
+		"Only the intensity of incident light",
+		"Number of photons"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "\\( \\frac{N}{C} \\) is equal to:",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{V}{m} $$",
+		"$$ \\frac{J}{V} $$",
+		"$$ \\frac{A}{m} $$",
+		"None of these"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "K.E. of electrons in Coolidge (X-ray) tube is proportional to",
+	"statement_img": false,
+	"options": [
+		"Filament current",
+		"Metallic target's atomic number",
+		"Accelerating potential",
+		"Filament resistance"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The half-life of a certain radio isotope is such that 7/8 of the given quantity decays in 12 days. What fraction will be left after 24 days?",
+	"statement_img": false,
+	"options": [
+		"$$ \\frac{1}{4} $$",
+		"$$ \\frac{1}{32} $$",
+		"$$ \\frac{1}{64} $$",
+		"$$ \\frac{1}{128} $$"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A body is displaced in a gravitational field as shown in the figure. The work done from A to C is?",
+	"statement_img": "url-to-img",
+	"options": [
+		"Greater than the work done from A to C via B",
+		"Equal to the work done from A to C via B",
+		"Less than the work done form A to C via B",
+		"Double the work done from A to C via B"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Unit of intensity of magnetic induction is:",
+	"statement_img": false,
+	"options": [
+		"NA<sup>-1</sup>m<sup>-1</sup>",
+		"Tesla",
+		"Wbm<sup>-2</sup>",
+		"All of these"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The output of an XOR gate is 1, if the two inputs are:",
+	"statement_img": false,
+	"options": [
+		"0, 0",
+		"1, 1",
+		"0, 1",
+		"Both (a) and (c)"
+	],
+	"answer": 2,
+	"explanation": "For an XOR gate's output to be 1 (true), the inputs must be different, i.e the output will be 0 (false) if inputs are same.",
+	"subject": "physics"
+},
+{
+	"statement": "The dimension of entropy is",
+	"statement_img": false,
+	"options": [
+		"[MLT<sup>-2</sup>]",
+		"[ML<sup>2</sup>T<sup>-2</sup>K]",
+		"[MLT<sup>-1</sup>K<sup>-1</sup>]",
+		"[ML<sup>2</sup>T<sup>-2</sup>K<sup>-1</sup>]"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Which of the following cannot be the resultant of vectors of magnitude 6 and 10?",
+	"statement_img": false,
+	"options": [
+		"7",
+		"6",
+		"8",
+		"2"
+	],
+	"answer": 3,
+	"explanation": "The smallest angle between the two vectors can be 0&deg;, so now both vectors are parallel. So,</br>Maximum possible value: 10 + 6 = 16</br>Now the largest angle between can be 180&deg;, so</br>Minimum possible value: 10 - 6 = 4.</br> SO the <strong>resultant vector must lie in the range of 4 to 16 magnitude</strong>.",
+	"subject": "physics"
+},
+{
+	"statement": "The fundamental frequency of stretched string is \\( f = \\frac{1}{2l}\\sqrt{ \\frac{F}{m} } \\), unit of m is:",
+	"statement_img": false,
+	"options": [
+		"kg",
+		"kgm<sup>-1</sup>",
+		"kg.m",
+		"kg<sup>-1</sup>"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The reverse of vector addition is called what?",
+	"statement_img": false,
+	"options": [
+		"Vector subtraction",
+		"Negation of vector",
+		"Resolution of vector",
+		"Multiplication of vectors"
+	],
+	"answer": 2,
+	"explanation": "Resolution of vectors means the process of resolving a vector into its components.",
+	"subject": "physics"
+},
+{
+	"statement": "If height of a projectile is equal to range, the angle of projection is:",
+	"statement_img": false,
+	"options": [
+		"45&deg;",
+		"76&deg;",
+		"60&deg;",
+		"90&deg;"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Escape velocity of M kg object is 11 kms<sup>-1</sup>. For 2M kg it is:",
+	"statement_img": false,
+	"options": [
+		"22 kms<sup>-1</sup>",
+		"11 kms<sup>-1</sup>",
+		"44 kms<sup>-1</sup>",
+		"None of these"
+	],
+	"answer": 1,
+	"explanation": "Escape velocity does not depend on the flying object's mass, but only on that of the earth. The precise formula is given by:$$ v_{e} = \\sqrt{ \\frac{2GM}{R} } $$",
+	"subject": "physics"
+},
+{
+	"statement": "The period of a satellite in an orbit of radius R is T. The period in an orbit of 4R is:",
+	"statement_img": false,
+	"options": [
+		"8T",
+		"4T",
+		"T/8",
+		"T/4"
+	],
+	"answer": 0,
+	"explanation": "T &propto; R<sup>2</sup>.",
+	"subject": "physics"
+},
+{
+	"statement": "Angle between linear and angular velocity for circular motion is:",
+	"statement_img": false,
+	"options": [
+		"0&deg;",
+		"180&deg;",
+		"90&deg;",
+		"45&deg;"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The maximum dragging force on a falling sphere of 9.8 N is",
+	"statement_img": false,
+	"options": [
+		"4.9 N",
+		"0",
+		"9.8 N",
+		"1 N"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "If a force of 10 N is applied parallel to a moment arm of 8 m, the torque is:",
+	"statement_img": false,
+	"options": [
+		"0.8 Nm",
+		"80 Nm",
+		"0 Nm",
+		"None of these"
+	],
+	"answer": 2,
+	"explanation": "Since the line of action of force and moment arm are parallel (&theta; = 0&deg;), the torque will be 0.",
+	"subject": "physics"
+},
+{
+	"statement": "The total weight of balloon is 1500 N. What is the resultant force acting on it when it is rising with constant velocity of 3 ms<sup>-1</sup> ?",
+	"statement_img": false,
+	"options": [
+		"4500 N",
+		"1500 N",
+		"2000 N",
+		"0 N"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Volume flow rate of 30 kg water flowing through a pipe in 1 minute is",
+	"statement_img": false,
+	"options": [
+		"5 &times; 10<sup>-3</sup> m<sup>3</sup>s<sup>-1</sup>",
+		"5 &times; 10<sup>-4</sup> m<sup>3</sup>s<sup>-1</sup>",
+		"2 &times; 10<sup>-2</sup> m<sup>3</sup>s<sup>-1</sup>",
+		"5 &times; 10<sup>-1</sup> m<sup>3</sup>s<sup>-1</sup>"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A charged particle moves through a magnetic field perpendicular to it. The energy of the particle will:",
+	"statement_img": false,
+	"options": [
+		"Increase",
+		"Decrease",
+		"Remain same",
+		"Become zero"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "1 kWh = 3.6 &times; <em>y</em>. Here y = ?",
+	"statement_img": false,
+	"options": [
+		"10<sup>-3</sup> GJ",
+		"10<sup>-6</sup> GJ",
+		"10<sup>3</sup> GJ",
+		"None"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "If the tensile force is suddenly removed from a wire, then its temprature will",
+	"statement_img": false,
+	"options": [
+		"Decrease",
+		"Increase",
+		"Become zero",
+		"Remain constant"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Impurity is added to a semi-conductor in what ratio?",
+	"statement_img": false,
+	"options": [
+		"10<sup>6</sup> : 1",
+		"1 : 10<sup>6</sup>",
+		"10<sup>4</sup> : 1",
+		"1 : 10<sup>4</sup>"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Angle between coils of three phase supply is:",
+	"statement_img": false,
+	"options": [
+		"360&deg;",
+		"240&deg;",
+		"120&deg;",
+		"90&deg;"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A photodiode works",
+	"statement_img": false,
+	"options": [
+		"On reverse biasing",
+		"On forward biasing",
+		"Because of minority charge carrier",
+		"Both (a) and (c)"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The power angle &Phi; as calculated from impedance triangle is",
+	"statement_img": false,
+	"options": [
+		"sin&Phi;",
+		"cos&Phi;",
+		"tan&Phi;",
+		"cot&Phi;"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Which of the following is accompanied by the characteristics of X-ray emission",
+	"statement_img": false,
+	"options": [
+		"&alpha;-particle emission",
+		"Electron emission",
+		"Positron emission",
+		"K-electron capture"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The virtual mass of photon is:",
+	"statement_img": false,
+	"options": [
+		"$$ m = \\frac{hf}{c} $$",
+		"$$ m = \\frac{ c^{2} }{hf} $$",
+		"$$ m = \\frac{hf}{ c^{2} } $$",
+		"0"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "In monochromatic light, human hand will appear",
+	"statement_img": false,
+	"options": [
+		"Black",
+		"White",
+		"In its original colour",
+		"Depends on colour of light"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A body falling freely on a planet covers 8 m in 2 s. The time period of one meter long pendulum on this planet will be what?",
+	"statement_img": false,
+	"options": [
+		"1.57 s",
+		"3.14 s",
+		"6.2 s",
+		"None"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The far point for normal eye is",
+	"statement_img": false,
+	"options": [
+		"25 cm",
+		"25 m",
+		"50 m",
+		"Infinity"
+	],
+	"answer": 3,
+	"explanation": "25 cm is the near point for a normal eye.",
+	"subject": "physics"
+},
+{
+	"statement": "The wavelength of the fundamental mode of vibration of a closed pipe of length l is:",
+	"statement_img": false,
+	"options": [
+		"l/2",
+		"l",
+		"2l",
+		"4l"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A particle is executing SHM. Which of the following is maximum when the bob is at the mean position?",
+	"statement_img": false,
+	"options": [
+		"Time period",
+		"Amplitude",
+		"Velocity",
+		"Acceleration"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "A diffraction grating has 5000 lines per cm, the value of grating element is",
+	"statement_img": false,
+	"options": [
+		"2 &times; 10<sup>-2</sup> m",
+		"2 &times; 10<sup>-4</sup> m",
+		"2 &times; 10<sup>-6</sup> m",
+		"2 &times; 10<sup>-8</sup> m"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "Maximum velocity of harmonic oscillator of amplitude \\( x_{o} \\) is",
+	"statement_img": false,
+	"options": [
+		"$$ K&omega;\\sqrt{x^{2} - x_{o}^{2}} $$",
+		"$$ &omega;x_{o} $$",
+		"$$ &omega;\\sqrt{x_{o}^{2} - x^{2}} $$",
+		"$$ &omega;/x_{o} $$"
+	],
+	"answer": 1,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "The frequency of waves in a string 200 Hz. If tension in string is increased 4 time its frequency will be",
+	"statement_img": false,
+	"options": [
+		"800 Hz",
+		"1600 Hz",
+		"400 Hz",
+		"200 Hz"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "To get more orders of spectra using a diffraction grating, the wavelength of light should be",
+	"statement_img": false,
+	"options": [
+		"Decrease",
+		"Increase",
+		"Remains same",
+		"None of these"
+	],
+	"answer": 0,
+	"explanation": ".",
+	"subject": "physics"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
 	"subject": "physics"
 },
 
-
 {
-	"statement": "Two main branches of chemistry are:",
+	"statement": "",
 	"statement_img": false,
 	"options": [
-		"Organic and Inorganic",
-		"Bio and Nuclear",
-		"Organic and Material",
-		"none of these"
+		"",
+		"",
+		"",
+		""
 	],
-	"answer": 1,
-	"explanation": "lorem ipsum",
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "chemistry"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
 	"subject": "chemistry"
 },
 
@@ -1089,16 +2232,133 @@
 
 
 {
-	"statement": "If a+b is c, then b+c is:",
+	"statement": "What will be the missing alphabets ACB, DFE, GIH, ____",
 	"statement_img": false,
 	"options": [
-		"2c - a",
-		"a + c",
-		"c - a",
-		"none of these"
+		"LJK",
+		"JLK",
+		"JKL",
+		"KLJ"
+	],
+	"answer": 1,
+	"explanation": "The pattern is obvious.",
+	"subject": "intelligence"
+},
+{
+	"statement": "If 4 apples and 6 oranges cost Rs. 68, and 7 apples and 9 oranges cost Rs. 107, what is the cost of one orange?",
+	"statement_img": false,
+	"options": [
+		"Rs. 5",
+		"Rs. 8",
+		"Rs. 10",
+		"None of these"
+	],
+	"answer": 1,
+	"explanation": "Let apples be x and oranges be y, then <strong>4x + 6y = 68</strong>, <strong>7x + 9y = 107</strong>",
+	"subject": "intelligence"
+},
+{
+	"statement": "Which is the odd one out?",
+	"statement_img": false,
+	"options": [
+		"Abraham Lincoln",
+		"Muhammad Ali Jinnah",
+		"Allama Iqbal",
+		"Sir Syed Ahmed Khan"
 	],
 	"answer": 0,
-	"explanation": "lorem ipsum",
+	"explanation": "Abraham Lincoln was a US president.",
+	"subject": "intelligence"
+},
+{
+	"statement": "If 7<sup>th</sup> of April falls 2 days preceding Wednesday, what day of the week will follow the 20<sup>th</sup> of the month?",
+	"statement_img": false,
+	"options": [
+		"Friday",
+		"Saturday",
+		"Sunday",
+		"Monday"
+	],
+	"answer": 2,
+	"explanation": "If it is Monday on 7th, then it will also be Monday on 21<sup>st</sup>. Which means it is Sunday on 20<sup>th</sup>.",
+	"subject": "intelligence"
+},
+{
+	"statement": "Find the missing alphabet:<table><tr><td>C</td><td>F</td><td>I</td></tr><tr><td>E</td><td>J</td><td>O</td></tr><tr><td>A</td><td>J</td><td></td></tr></table>",
+	"statement_img": false,
+	"options": [
+		"R",
+		"Q",
+		"S",
+		"T"
+	],
+	"answer": 2,
+	"explanation": "By going 3 alphabets ahead from C, we get F. Same from F to I. In the second row, this increment is 5. In the third row, from A to J, its 9. So if we go 9 alphabets ahead from J, we get S.",
+	"subject": "intelligence"
+},
+{
+	"statement": "A and B are brothers. Y is X's brother but X is the the mother of A. What is X to B?",
+	"statement_img": false,
+	"options": [
+		"Brother",
+		"Son in law",
+		"Mother",
+		"Mother in law"
+	],
+	"answer": 2,
+	"explanation": "Since X is A's mother, and A and B are brothers, so A is also the mother of B.",
+	"subject": "intelligence"
+},
+{
+	"statement": "A man travels 10 miles North. Then turns right and travels 5 miles. Again turns right and travels 8 miles. What is his direction now?",
+	"statement_img": false,
+	"options": [
+		"West",
+		"East",
+		"North",
+		"South"
+	],
+	"answer": 3,
+	"explanation": "By turning right twice, he is now in opposite direction of his original direction (which was North), so the answer is South.",
+	"subject": "intelligence"
+},
+{
+	"statement": "Which number should logically replace the question marks <strong>6, 7, 7, 9, 18, 21, 63, ?</strong>.",
+	"statement_img": false,
+	"options": [
+		"252",
+		"96",
+		"67",
+		"53"
+	],
+	"answer": 2,
+	"explanation": "<p>Add x to get the next number in sequence, multiply the result with x to get next number in the sequence. x's initial value is 1.</p><p>For example, 6 + <u>1</u> = 7. Now, 7 &times; <u>1</u> = 7.</p>",
+	"subject": "intelligence"
+},
+{
+	"statement": "The value of <strong>2 + 2 &times; 2 / 2</strong> is:",
+	"statement_img": false,
+	"options": [
+		"8",
+		"4",
+		"2",
+		"1"
+	],
+	"answer": 1,
+	"explanation": "It is solved like this: 2 + (2 &times; 2)/2 = 2 + 4/2 = 2 + 2 = 4.",
+	"subject": "intelligence"
+},
+{
+	"statement": "A man begins climbing a hill. Every minute he ascends 15 m but slips 2 m. How long will he take to ascend a point 80 m high?",
+	"statement_img": false,
+	"options": [
+		"6 minutes",
+		"5 minutes",
+		"7 minutes",
+		"None of these"
+	],
+	"answer": 0,
+	"explanation": "Each minute he covers 13 m, so <strong>1 : 13 = x : 80</strong> &Implies; x = 6.15. So it takes approximately 6 minutes.",
 	"subject": "intelligence"
 }
 ]
