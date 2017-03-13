@@ -1810,390 +1810,390 @@
 },
 
 {
-	"statement": "",
+	"statement": "The wave number of which colour is maximum?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Red",
+		"Green",
+		"Blue",
+		"Orange"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Decomposition of PCL<sub>5</sub> is favoured at",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"High pressure",
+		"Low volume",
+		"Low pressure",
+		"Low temperature"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Sum of mole fractions of all components is tap-water is",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Slightly less than one",
+		"Slightly greater than one",
+		"Exactly equal to one",
+		"May be any one of the above depending on the temperature"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Total number of ions produced by complete ionization of 55 g CaCl<sub>2</sub> is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"6.02 &times; 10<sup>23</sup>",
+		"3.01 &times; 10<sup>23</sup>",
+		"9.03 &times; 10<sup>23</sup>",
+		"12 &times; 10<sup>23</sup>"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which state of matter is more abundant on Earth?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Gases",
+		"Liquids",
+		"Solids",
+		"Plasma"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Total number of orbitals in a sub-shell can be determined by general formaula:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"2n<sup>2</sup>",
+		"n<sup>2</sup>",
+		"2(2l + 1)",
+		"2l + 1"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "In which compound there is least ionic character?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"NaCl",
+		"MgCl<sub>2</sub>",
+		"CsCl",
+		"CsF"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "For solution that posses more than two components, which concentration unit is used?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Molarity",
+		"Molality",
+		"Part per million",
+		"Mole fraction"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The aqueous solution of which one the following is acidic?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Sodium Acetate",
+		"Sodium Chloride",
+		"Aluminium Chloride",
+		"Potassium Carbonate"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Total lone pairs at carbon atom in carbon monoxide molecule are?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"One",
+		"Two",
+		"Three",
+		"Zero"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which gas is produced by the reaction of Copper and dilute Nitric acid?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Dinitrogen Oxide",
+		"Nitrogen Oxide",
+		"Nitrogen Dioxide",
+		"HCl"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Reaction of alcohlic KOH with ethyl chloride gives us:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Ethanol",
+		"Ethene",
+		"Vinyl Chloride",
+		"Chlorohydrins"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The nitration of which compound is more easy?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Chlorobenzene",
+		"Benzene",
+		"Benzaldehyde",
+		"Phenol"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which is the weakest acid among the following?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"CH<sub>3</sub>COOH",
+		"F-CH<sub>2</sub>COOH",
+		"Cl-CH<sub>2</sub>COOH",
+		"All have same strength"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which is used for treatment of acidity of stomach?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Ca(OH)<sub>2</sub>",
+		"BaO",
+		"MgO",
+		"Mg(OH)<sub>2</sub>"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which compound gives fumes in air?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"P<sub>2</sub>O<sub>5</sub>",
+		"NaOH",
+		"PCl",
+		"P<sub>4</sub>O<sub>10</sub>"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "In which pair do both pollutants cause damage to buildings?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Carbon Monoxide and Lead compounds",
+		"Nitrogen Dioxide and Lead compounds",
+		"Nitrogen Dioxide and Sulphur Dioxide",
+		"Carbon Dioxide and Lead compounds"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The colour of transition metal complexes is due to what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"d-d transitions of electrons",
+		"Paramagnetic nature of transition element",
+		"Ionization",
+		"Loss of s-electrons"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Dichromates can be converted into chromates on adding:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Acid",
+		"Base",
+		"Salt",
+		"Oxidizing agent"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which of the following is the strongest acid?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"CH<sub>4</sub>",
+		"NH<sub>3</sub>",
+		"H<sub>2</sub>O",
+		"HF"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The addition of which salt will have the greatest effect on raising the boiling point of water assuming complete ionization?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"CaCl<sub>2</sub>",
+		"KCl",
+		"NaCl",
+		"FeCl<sub>3</sub>"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The -NH-CO group is called amide linkage which exists in",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Carbohydrates",
+		"Nylon 6,6",
+		"Lipids",
+		"Nucleic acid"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Conversion of n-hexane into benzene is called",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Isomerization",
+		"Aromatization",
+		"Polymerization",
+		"Rearrangement"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "1.8 g of fructose in 9 g water has mole fraction:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"1/5",
+		"1/51",
+		"5.1",
+		"1/50"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "In the reaction <strong>2Fe + 3Cl<sub>2</sub> &rarr; 2FeCl<sub>2</sub></strong>,",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Cl<sub>2</sub> is oxidized",
+		"Fe is reduced",
+		"Fe is oxidized",
+		"Cl<sub>2</sub> is reducing agent"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The rate equation for a reaction is Rate = k[A]. What are the units of k?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"mol<sup>-1</sup>dm<sup>3</sup>s<sup>-1</sup>",
+		"mol.dm<sup>-3</sup>s<sup>-1</sup>",
+		"mol.dm<sup>-3</sup>s<sup>-1</sup>",
+		"s<sup>-1</sup>"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Half-life period of a first order reaction is independent of",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Presence of catalyst",
+		"Conditions of temperature",
+		"Initial concentration of reactant",
+		"All of these"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "If the concentration of a reactant is tripled, the reaction rate will be",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"At least 3 times faster",
+		"4 times faster",
+		"30 times faster",
+		"Cannot be predicted without rate law"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "Which oxide is insoluble in water?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"BeO",
+		"Na<sub>2</sub>O",
+		"K<sub>2</sub>O",
+		"BaO"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "",
+	"statement": "The partial pressure of O<sub>2</sub> in the lungs is 116 torr while that in the atmosphere is",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"159 torr",
+		"259 torr",
+		"359 torr",
+		"459 torr"
 	],
 	"answer": 0,
 	"explanation": "",
@@ -2202,31 +2202,655 @@
 
 
 {
-	"statement": "The first computer was made by",
+	"statement": "",
 	"statement_img": false,
 	"options": [
-		"Charles Babbage",
-		"Alan Turing",
-		"Bill Gates",
-		"Steve Jobs"
+		"",
+		"",
+		"",
+		""
 	],
-	"answer": 1,
-	"explanation": "lorem ipsum",
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "computer"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
 	"subject": "computer"
 },
 
 
 {
-	"statement": "English evolved from",
+	"statement": "",
 	"statement_img": false,
 	"options": [
-		"Greek",
-		"Latin",
-		"Spanish",
-		"none of these"
+		"",
+		"",
+		"",
+		""
 	],
-	"answer": 1,
-	"explanation": "lorem ipsum",
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "",
+	"statement_img": false,
+	"options": [
+		"",
+		"",
+		"",
+		""
+	],
+	"answer": 0,
+	"explanation": "",
 	"subject": "english"
 },
 
