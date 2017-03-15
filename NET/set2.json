@@ -39,12 +39,12 @@
 	"subject": "math"
 },
 {
-	"statement": "For two sets A and B, A &union; B = ?",
+	"statement": "For two sets A and B, A &Union; B = ?",
 	"statement_img": false,
 	"options": [
 		"A - B",
-		"A &intersection; (B &union; A)",
-		"A &union; (A&prime; &union; B)",
+		"A &Intersection; (B &Union; A)",
+		"A &Union; (A&prime; &Union; B)",
 		"None"
 	],
 	"answer": 0,
@@ -91,7 +91,7 @@
 	"subject": "math"
 },
 {
-	"statement": "If A = \\( \\begin{matrix} 5 & 3 \\\\ 1 & 1 \\end{matrix} \\), and AA<sup>-1</sup> = \\( \\begin{matrix} x & y \\\\ z & t \\end{matrix} \\), then <strong>x + y + z + t = ?</strong>",
+	"statement": "If A = \\( \\begin{bmatrix} 5 & 3 \\\\ 1 & 1 \\end{bmatrix} \\), and AA<sup>-1</sup> = \\( \\begin{bmatrix} x & y \\\\ z & t \\end{bmatrix} \\), then <strong>x + y + z + t = ?</strong>",
 	"statement_img": false,
 	"options": [
 		"1",
@@ -273,7 +273,7 @@
 	"subject": "math"
 },
 {
-	"statement": "$$ \\frac{9}{4} + \\frac{3}{2} + 1 + \\frac{2}{3} + ... &infin; = ? $$",
+	"statement": "$$ \\frac{9}{4} + \\frac{3}{2} + 1 + \\frac{2}{3} + ... &infin; =\\ ? $$",
 	"statement_img": false,
 	"options": [
 		"&infin;",
@@ -468,6 +468,19 @@
 	"subject": "math"
 },
 {
+	"statement": "1 + cos<sup>4</sup>&theta; - sin<sup>4</sup>&theta; = ?",
+	"statement_img": false,
+	"options": [
+		"2sin<sup>2</sup>&theta;",
+		"1 - cos<sup>2</sup>&theta;",
+		"2cos<sup>2</sup>&theta;",
+		"None"
+	],
+	"answer": 2,
+	"explanation": ".",
+	"subject": "math"
+},
+{
 	"statement": "The amplitude of <strong>-sin(x)cos(x)</strong> is:",
 	"statement_img": false,
 	"options": [
@@ -611,7 +624,7 @@
 	"subject": "math"
 },
 {
-	"statement": "$$ lim_{x &rarr; 0}\\frac{cos&theta;}{&theta;} = ? $$",
+	"statement": "$$ \\lim_{x &rarr; 0}\\frac{cos&theta;}{&theta;} = ? $$",
 	"statement_img": false,
 	"options": [
 		"1",
@@ -1263,6 +1276,19 @@
 	"subject": "physics"
 },
 {
+	"statement": "The electric field is defined as \\( \\vec{E} = \\frac{ \\vec{F} }{q_{o}} \\), where q<sub>o</sub> is a small positive charge. If instead the definition were in terms of a small negative charge of same magnitude then the newly defined electric field",
+	"statement_img": false,
+	"options": [
+		"would point in the same direction, and have same magnitude.",
+		"would point in the opposite direction, but have the same magnitude.",
+		"would point in the same direction, but have a different magnitude.",
+		"would point in the opposite direction, and have a different magnitude."
+	],
+	"answer": 0,
+	"explanation": "The direction of \\( \\vec{E} \\) is in the direction of vector \\( \\vec{F} \\), whereas q<sub>o</sub> is a scalar.",
+	"subject": "physics"
+},
+{
 	"statement": "An A.C. series circuit has resistance 4 &ohm; and inductive reactance of 3 &ohm;. The impedance will be",
 	"statement_img": false,
 	"options": [
@@ -1588,7 +1614,7 @@
 	"subject": "physics"
 },
 {
-	"statement": "If the tensile force is suddenly removed from a wire, then its temprature will",
+	"statement": "If the tensile force is suddenly removed from a wire, then its temperature will",
 	"statement_img": false,
 	"options": [
 		"Decrease",
@@ -1795,19 +1821,6 @@
 	"explanation": ".",
 	"subject": "physics"
 },
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "physics"
-},
 
 {
 	"statement": "The wave number of which colour is maximum?",
@@ -1875,7 +1888,7 @@
 	"subject": "chemistry"
 },
 {
-	"statement": "Total number of orbitals in a sub-shell can be determined by general formaula:",
+	"statement": "Total number of orbitals in a sub-shell can be determined by general formula:",
 	"statement_img": false,
 	"options": [
 		"2n<sup>2</sup>",
@@ -1953,7 +1966,7 @@
 	"subject": "chemistry"
 },
 {
-	"statement": "Reaction of alcohlic KOH with ethyl chloride gives us:",
+	"statement": "Reaction of alcoholic KOH with ethyl chloride gives us:",
 	"statement_img": false,
 	"options": [
 		"Ethanol",
@@ -2594,263 +2607,263 @@
 
 
 {
-	"statement": "",
+	"statement": "Nina usually gets good grades, but her score on the last test was",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"common",
+		"competitive",
+		"excellent",
+		"poor"
+	],
+	"answer": 3,
+	"explanation": "",
+	"subject": "english"
+},
+{
+	"statement": "The house was built using ____ materials: wood, steel, concrete, brick, stone, and tile.",
+	"statement_img": false,
+	"options": [
+		"cheap",
+		"a variety of",
+		"very few",
+		"weak"
+	],
+	"answer": 1,
+	"explanation": "Only the second options makes sense since the materials listed are not cheap, very few or weak.",
+	"subject": "english"
+},
+{
+	"statement": "Some plants need full sunlight, while others ____ partial exposure to the sun.",
+	"statement_img": false,
+	"options": [
+		"require",
+		"choose",
+		"obtain",
+		"prefer"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The ____ book in the series contains the story's long-awaited ____.",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"final, plot",
+		"best, conflict",
+		"longest, hero",
+		"final, conclusion"
+	],
+	"answer": 3,
+	"explanation": ".",
+	"subject": "english"
+},
+{
+	"statement": "Eren has many friends at school. He is very ____.",
+	"statement_img": false,
+	"options": [
+		"popular",
+		"intelligent",
+		"busy",
+		"talkative"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Spy : Information</strong>",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Robber : Banks",
+		"Embezzler : Funds",
+		"Writer : Ideas",
+		"Soldier : Battles"
+	],
+	"answer": 1,
+	"explanation": "An embezzler is a person who is involved in misplacement (embezzlement) of money entrusted to him.",
+	"subject": "english"
+},
+{
+	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Hurricane : Wind</strong>",
+	"statement_img": false,
+	"options": [
+		"Ripple : Ocean",
+		"Lightning : Clouds",
+		"Flood : Water",
+		"Blizzard : Snow"
+	],
+	"answer": 2,
+	"explanation": "Floods are caused by a massive amount of water.",
+	"subject": "english"
+},
+{
+	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Funny : Hilarious</strong>",
+	"statement_img": false,
+	"options": [
+		"Superficial : Reduced",
+		"Hungry : Ravenous",
+		"Hidden : Prodigious",
+		"Interesting : Absurd"
+	],
+	"answer": 1,
+	"explanation": "The given pairs are synonyms of each other. Ravenous means extremely hungry, which makes the second pair the correct answer.",
+	"subject": "english"
+},
+{
+	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Salutation : Letter</strong>",
+	"statement_img": false,
+	"options": [
+		"Appendix : Book",
+		"Reference : Citation",
+		"Prologue : Play",
+		"Bibliography : Page"
 	],
 	"answer": 0,
 	"explanation": "",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The antonym of <strong>Debacle</strong> is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Philanthropist",
+		"Fiasco",
+		"Champion",
+		"Sluggish"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "Debacle means failure, wreck, mess or a fiasco.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The antonym of <strong>Superfluous</strong> is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Diminishing",
+		"Sufficient",
+		"Plentiful",
+		"Unnecessary"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Superfluous means more than necessary.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The synonym of <strong>Atrophy</strong> is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Lose leaves",
+		"Soften",
+		"Waste away",
+		"Grow"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "Atrophy means to waste away (usually of a tissue or an organ), fade away or disintegrate.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The synonym of <strong>Resilience</strong> is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Submission",
+		"Quietly",
+		"Vigour",
+		"Recover"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "Resilience means toughness and the ability to recover quickly.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The synonym of <strong>Analogy</strong> is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Similarity",
+		"Transposition",
+		"Variety",
+		"Distinction"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "An analogy is mostly used to explain similar things.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "\"The events for the conference were listed in <strong>chronological</strong> order.\"</br>The word written in bold means what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Out of order",
+		"Descending",
+		"Ascending",
+		"In order"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Chronological means that in the order events happened or were supposed to happen.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "\"There was crazy pandemonium as people were trying to leave the hall.\"</br>The word written in bold means what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Silence",
+		"Crowd",
+		"Vibration sound",
+		"Chaos"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Pandemonium means wild and noisy disorder.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "\"The man was sent to the penitentiary for stealing cars.\"</br>The word written in bold means what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Office",
+		"Court",
+		"Detention centre",
+		"Police station"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "Penitentiary means jail, prison or a detention centre.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "The manager is <strong><u>responsible</u></strong> for the work of every person in this office.",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Verb",
+		"Adjective",
+		"Pronoun",
+		"Duty"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "An adjective is an attribute of a noun.",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "I can work <strong><u>faster</u></strong> without any help.",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Adverb",
+		"Adjective",
+		"Noun",
+		"Pronoun"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "'Fast' is an adverb, 'faster' is its comparative form (and 'fastest' is superlative form).",
 	"subject": "english"
 },
 {
-	"statement": "",
+	"statement": "Which of these is the correct spelling?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Procede",
+		"Proseed",
+		"Proced",
+		"Proceed"
 	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "english"
-},
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "english"
-},
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "english"
-},
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "english"
-},
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "english"
-},
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
-	"subject": "english"
-},
-{
-	"statement": "",
-	"statement_img": false,
-	"options": [
-		"",
-		"",
-		"",
-		""
-	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "To proceed means to move forward.",
 	"subject": "english"
 },
 
