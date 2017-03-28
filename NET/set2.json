@@ -1823,7 +1823,7 @@
 },
 
 {
-	"statement": "The wave number of which colour is maximum?",
+	"statement": "The wavelength of which colour is maximum?",
 	"statement_img": false,
 	"options": [
 		"Red",
@@ -1832,7 +1832,7 @@
 		"Orange"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "Red has the longest wavelength (around 700 nm), and Violet has shortest wavelength (around 400 nm).",
 	"subject": "chemistry"
 },
 {
@@ -1844,12 +1844,12 @@
 		"Low pressure",
 		"Low temperature"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "",
 	"subject": "chemistry"
 },
 {
-	"statement": "Sum of mole fractions of all components is tap-water is",
+	"statement": "Sum of mole fractions of all components in tap-water is",
 	"statement_img": false,
 	"options": [
 		"Slightly less than one",
@@ -1871,7 +1871,7 @@
 		"12 &times; 10<sup>23</sup>"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "have to mark its answer",
 	"subject": "chemistry"
 },
 {
@@ -1883,7 +1883,7 @@
 		"Solids",
 		"Plasma"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -1896,7 +1896,7 @@
 		"2(2l + 1)",
 		"2l + 1"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -1909,7 +1909,7 @@
 		"CsCl",
 		"CsF"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -1922,7 +1922,7 @@
 		"Part per million",
 		"Mole fraction"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -1935,7 +1935,7 @@
 		"Aluminium Chloride",
 		"Potassium Carbonate"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -1961,7 +1961,7 @@
 		"Nitrogen Dioxide",
 		"HCl"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -1974,7 +1974,7 @@
 		"Vinyl Chloride",
 		"Chlorohydrins"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2000,7 +2000,7 @@
 		"Cl-CH<sub>2</sub>COOH",
 		"All have same strength"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2013,7 +2013,7 @@
 		"MgO",
 		"Mg(OH)<sub>2</sub>"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2027,7 +2027,7 @@
 		"P<sub>4</sub>O<sub>10</sub>"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "have to mark its answer",
 	"subject": "chemistry"
 },
 {
@@ -2039,7 +2039,7 @@
 		"Nitrogen Dioxide and Sulphur Dioxide",
 		"Carbon Dioxide and Lead compounds"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2065,7 +2065,7 @@
 		"Salt",
 		"Oxidizing agent"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2078,7 +2078,7 @@
 		"H<sub>2</sub>O",
 		"HF"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2091,7 +2091,7 @@
 		"NaCl",
 		"FeCl<sub>3</sub>"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2104,7 +2104,7 @@
 		"Lipids",
 		"Nucleic acid"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2130,7 +2130,7 @@
 		"5.1",
 		"1/50"
 	],
-	"answer": 0,
+	"answer": 1,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2144,7 +2144,7 @@
 		"Cl<sub>2</sub> is reducing agent"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "have to mark its answer",
 	"subject": "chemistry"
 },
 {
@@ -2156,7 +2156,7 @@
 		"mol.dm<sup>-3</sup>s<sup>-1</sup>",
 		"s<sup>-1</sup>"
 	],
-	"answer": 0,
+	"answer": 2,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2169,7 +2169,7 @@
 		"Initial concentration of reactant",
 		"All of these"
 	],
-	"answer": 0,
+	"answer": 3,
 	"explanation": "",
 	"subject": "chemistry"
 },
@@ -2183,7 +2183,7 @@
 		"Cannot be predicted without rate law"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "have to mark its answer",
 	"subject": "chemistry"
 },
 {
@@ -2195,8 +2195,8 @@
 		"K<sub>2</sub>O",
 		"BaO"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "Because K<sup>+</sup> is insoluble in water.",
 	"subject": "chemistry"
 },
 {
@@ -2215,393 +2215,393 @@
 
 
 {
-	"statement": "",
+	"statement": "<strong>VLSI</strong> stands for what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"<strong>V</strong>ery <strong>L</strong>ight <strong>S</strong>cale <strong>I</strong>nter-transfer",
+		"<strong>V</strong>ery <strong>L</strong>arge <strong>S</strong>Speed <strong>I</strong>ntegration",
+		"<strong>V</strong>ery <strong>L</strong>ow <strong>S</strong>peed <strong>I</strong>nter-transfer",
+		"<strong>V</strong>ery <strong>L</strong>arge <strong>S</strong>cale <strong>I</strong>ntegration"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Very-large-scale integration (VLSI) is the process of creating an integrated circuit (IC) by combining thousands of transistors into a single chip.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Cache memory was introduced in which generation?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"First",
+		"Second",
+		"Third",
+		"Fourth"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Cache memory was invented and placed inside of microprocessors.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "To store an alphabet or an alphanumeric character in the computer's memory, how many bits are required?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"2",
+		"8",
+		"16",
+		"4"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "1 byte is used up to store one character, and 1 byte = 8 bits.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Registers are part of the:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"CPU",
+		"RAM",
+		"Motherboard",
+		"Control Bus"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "A processor register is a quickly accessible location available to a computer's Central Processing Unit (CPU).",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In a star topology, the nodes are connected to a common:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Bus",
+		"Central Wire",
+		"Switch/Hub",
+		"Router"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "All nodes in a star topology are connected to a central point such as a switch or a hub. A star topology takes more cable than e.g. a bus, but the benefit is that if a cable fails, only one node will be brought down.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "The fifth layer of OSI model is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Network layer",
+		"Application layer",
+		"Transport layer",
+		"Session layer"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Going from layer (Application layer), the fifth layer is session layer.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "How many bits are used by ASCII to represent data are?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"2",
+		"4",
+		"7",
+		"8"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "The original ASCII used 7-bits. Later it was extended to 8-bits.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "To convert digital signals to analog and vice versa, which electronic component is used?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Switch",
+		"Modem",
+		"Amplifier",
+		"Converter"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "Short for modulator-demodulator, a modem is a device or program that enables a computer to transmit data over, for example, telephone or cable lines.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "The data transmission in which data can transmitted in both directions, but one at a time, is called:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Half-duplex",
+		"Simplex",
+		"Full-duplex",
+		"One-time duplex"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "Half-duplex allows data transmission in both directions but not simultaneously.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Radio buttons offers a list of",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Associated options",
+		"Mutually exclusive options",
+		"options",
+		"Mutually inclusive options"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "In case of radio buttons, only one choice can be selected at a time. Therefore, the options are mutually exclusive.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Which one of the following is a part of modern operating systems?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Kernel",
+		"Command-line Interface",
+		"GUI",
+		"Word processor"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "A <strong>G</strong>raphical <strong>U</strong>ser <strong>I</strong>nterface (<strong>GUI</strong>) is part of most modern operating systems.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "The protocol used to transfer files through a network is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"HTTP",
+		"SSH",
+		"SMTP",
+		"FTP"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "<strong>F</strong>ile <strong>T</strong>ransfer <strong>P</strong>rotocol is used to transfer files on a network such as the Internet.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "The shortcut-key combination to add a chart in MS-Excel is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Ctrl + Alt + C",
+		"Alt + F1",
+		"Shift + F3",
+		"Shift + N"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "The shortcut-key to add a default chart to current worksheet is <strong>Alt + F1</strong>. We have to select the data before pressing the keys.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "The shortcut-key for Save As command is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Ctrl + Alt + S",
+		"Ctrl + Shift + D",
+		"Ctrl + Shift + S",
+		"Ctrl + D"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "For <strong>Save As</strong> command, <strong>Ctrl +  Shift + S</strong> key combination is used.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In RDBMS, a <strong>relation</strong> is what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"A table",
+		"A function",
+		"An entity",
+		"An attribute"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "In RDBMS, a table is often called a relation.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Which query is used to insert new records?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"INSERT",
+		"APPEND",
+		"UPDATE",
+		"CREATE"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "In MS-Access, APPEND query is used to insert a new record.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Which object, in MS-Access, is used to display and enter records?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Table",
+		"Query",
+		"Report",
+		"Form"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "Forms, in MS-Access, are used to enter and display records.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In C, the header files contain what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Definitions of the functions",
+		"Body of the functions",
+		"Prototypes of the functions",
+		"All of these"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "The header files only contain the prototypes of the functions. The complete function definitions are in related source code (<strong>.c</strong>) files.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In C++, most common method to get user input is:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"scanf()",
+		"input()",
+		"gets()",
+		"cin"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "<strong>cin</strong> is the most common method to get user input in <strong>C++</strong>.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "<strong>long</strong> data type in C uses which format specifier?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"%l",
+		"%ld",
+		"%d",
+		"%ln"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "<strong>%ld</strong> is used for a <strong>signed long</strong>, and <strong>%lu</strong> for an <strong>unsigned long</strong> data type.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In C, which of the following functions is used to clear the screen?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"clrscr()",
+		"clear()",
+		"cls()",
+		"new_screen()"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "<strong>clrscr()</strong> is a pre-defined function in <strong>conio.h</strong> library.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "<strong>break</strong> statement is used in",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Functions",
+		"If-Else conditions",
+		"Loops",
+		"Switch statements"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "<strong>break</strong> statement is used to break out of a loop.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "<strong><=</strong> is which type of operator?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Arithmetic",
+		"Relational",
+		"Logical",
+		"Comparison"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "<, >, <=, >=, == are called relational operators in C.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Which one of the following is increment operator?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"a++",
+		"++a",
+		"a = a + 1",
+		"All of the above"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "All of them increment the value of the variable <strong>a</strong> by one.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "<strong>for</strong> loop is used to repeat a set of instructions:",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Required number of times",
+		"Until a condition is satisfied",
+		"As many times as needed",
+		"A fixed number of times"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "A for loop is used to repeat a set of statements for a fixed number of times.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In C, how many loops are available?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"3",
+		"2",
+		"1",
+		"4"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "There are 3 loops available in C. <strong>do-while</strong>, <strong>while</strong>, and <strong>for</strong> loop.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "In a function definition, where do you list the function arguments?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"In-between { and }",
+		"In-between ( and )",
+		"In-between [ and ]",
+		"In the return value"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 1,
+	"explanation": "The function arguments or parameters are listed in-between the parenthesis.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "Which of the following function stops the progress of a program until a key is pressed?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"getch()",
+		"pause()",
+		"printf()",
+		"All of the above"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": "Since <strong>getch()</strong> requires user input to be entered, the progress of the program stops until input is given.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "User-defined functions are",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"designed by the user",
+		"designed by the OS/language",
+		"pre-defined",
+		"designed by the programmer"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 3,
+	"explanation": "The functions which are not built into the language and are defined/written by the programmer (user of the language) are called user-defined functions.",
 	"subject": "computer"
 },
 {
-	"statement": "",
+	"statement": "A loop inside another loop is called what?",
 	"statement_img": false,
 	"options": [
-		"",
-		"",
-		"",
-		""
+		"Conjugated Loop",
+		"Mixed Loop",
+		"Nested Loop",
+		"Recursive Loop"
 	],
-	"answer": 0,
-	"explanation": "",
+	"answer": 2,
+	"explanation": "A loop inside another loop is called nested loop. The loop which contains the other loop is called outer loop, and the loop which is inside is called inner loop.",
 	"subject": "computer"
 },
 
