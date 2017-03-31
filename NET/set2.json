@@ -18,8 +18,8 @@
 	"options": [
 		"6 + 10i",
 		"5 - i",
-		"$$ \\sqrt{34} $$",
-		"$$ 2\\sqrt{34} $$"
+		"\\( \\sqrt{34} \\)",
+		"\\( 2\\sqrt{34} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -146,10 +146,10 @@
 	"statement": "If &alpha;, &beta; are the roots of <strong>2x<sup>2</sup> + 3x + 7 = 0</strong>, then value of &alpha;<sup>2</sup> + &beta;<sup>2</sup> equals to?",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{19}{4} $$",
-		"$$ -\\frac{19}{49} $$",
-		"$$ \\frac{99}{2} $$",
-		"$$ -\\frac{19}{4} $$"
+		"\\( \\frac{19}{4} \\)",
+		"\\( -\\frac{19}{49} \\)",
+		"\\( \\frac{99}{2} \\)",
+		"\\( -\\frac{19}{4} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -341,10 +341,10 @@
 	"statement": "Two dice are thrown what is the probability of getting sum of dots even?",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{1}{6} $$",
-		"$$ \\frac{2}{5} $$",
-		"$$ \\frac{2}{6} $$",
-		"$$ \\frac{1}{2} $$"
+		"\\( \\frac{1}{6} \\)",
+		"\\( \\frac{2}{5} \\)",
+		"\\( \\frac{2}{6} \\)",
+		"\\( \\frac{1}{2} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -354,10 +354,10 @@
 	"statement": "Find the probability of getting two heads in two consecutive tosses of a coin?",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{1}{8} $$",
-		"$$ \\frac{1}{6} $$",
-		"$$ \\frac{3}{8} $$",
-		"$$ \\frac{1}{4} $$"
+		"\\( \\frac{1}{8} \\)",
+		"\\( \\frac{1}{6} \\)",
+		"\\( \\frac{3}{8} \\)",
+		"\\( \\frac{1}{4} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -419,10 +419,10 @@
 	"statement": "If x<sup>3</sup> and higher powers can be neglected then find a, b in (1 + x)<sup>1/4</sup> + (1 - x)<sup>1/4</sup> = a - bx<sup>2</sup>.",
 	"statement_img": false,
 	"options": [
-		"$$ 2, 3 $$",
-		"$$ 2, \\frac{3}{16} $$",
-		"$$ 1, \\frac{5}{4} $$",
-		"$$ 2, \\frac{1}{8} $$"
+		"\\( 2, 3 \\)",
+		"\\( 2, \\frac{3}{16} \\)",
+		"\\( 1, \\frac{5}{4} \\)",
+		"\\( 2, \\frac{1}{8} \\)"
 	],
 	"answer": 1,
 	"explanation": ".",
@@ -455,12 +455,12 @@
 	"subject": "math"
 },
 {
-	"statement": "If &alpha; is in 4<sup>th</sup> quadrant, then \\( cos\\frac{&alpha;}{2} = ? \\)?",
+	"statement": "If &alpha; is in 4<sup>th</sup> quadrant, then \\( cos\\frac{&alpha;}{2} =\\ ? \\)",
 	"statement_img": false,
 	"options": [
-		"$$ &PlusMinus;\\sqrt{ \\frac{1 + cos&alpha;}{2} } $$",
-		"$$ -\\sqrt{ \\frac{1 + cos&alpha;}{2} } $$",
-		"$$ \\sqrt{ \\frac{1 + cos&alpha;}{2} } $$",
+		"\\( &PlusMinus;\\sqrt{ \\frac{1 + cos&alpha;}{2} } \\)",
+		"\\( -\\sqrt{ \\frac{1 + cos&alpha;}{2} } \\)",
+		"\\( \\sqrt{ \\frac{1 + cos&alpha;}{2} } \\)",
 		"None of these"
 	],
 	"answer": 2,
@@ -510,10 +510,10 @@
 	"statement": "The phase shift of <strong>y = sin(4x - 1)</strong> is what?",
 	"statement_img": false,
 	"options": [
-		"$$ 4 $$",
-		"$$ \\frac{1}{4} $$",
-		"$$ -\\frac{1}{4} $$",
-		"$$ \\frac{1}{2&pi;} $$"
+		"\\( 4 \\)",
+		"\\( \\frac{1}{4} \\)",
+		"\\( -\\frac{1}{4} \\)",
+		"\\( \\frac{1}{2&pi;} \\)"
 	],
 	"answer": 1,
 	"explanation": ".",
@@ -536,10 +536,10 @@
 	"statement": "An isosceles triangle has a vertical angle of 60&deg; and base 20 cm, calculate its altitude.",
 	"statement_img": false,
 	"options": [
-		"$$ \\sqrt{3}\\ cm $$",
-		"$$ \\frac{\\sqrt{3}}{10}\\ cm",
-		"$$ 10\\ cm $$",
-		"$$ 17.3\\ cm $$"
+		"\\( \\sqrt{3}\\ cm \\)",
+		"\\( \\frac{\\sqrt{3}}{10}\\ cm \\)",
+		"\\( 10\\ cm \\)",
+		"\\( 17.3\\ cm \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -549,10 +549,10 @@
 	"statement": "Which one of these formulae is not wrong?",
 	"statement_img": false,
 	"options": [
-		"$$ sin\\frac{&alpha;}{2} = \\sqrt{ \\frac{(s - a)(s - c)}{ac} } $$",
-		"$$ sin\\frac{&beta;}{2} = \\sqrt{ \\frac{(s - a)(s - b)}{ac} } $$",
-		"$$ cos\\frac{&gamma;}{2} = \\sqrt{ \\frac{s(s - c)}{ab} } $$",
-		"$$ cos\\frac{&beta;}{2} = \\sqrt{ \\frac{s(s - b)}{ab} } $$"
+		"\\( sin\\frac{&alpha;}{2} = \\sqrt{ \\frac{(s - a)(s - c)}{ac} } \\)",
+		"\\( sin\\frac{&beta;}{2} = \\sqrt{ \\frac{(s - a)(s - b)}{ac} } \\)",
+		"\\( cos\\frac{&gamma;}{2} = \\sqrt{ \\frac{s(s - c)}{ab} } \\)",
+		"\\( cos\\frac{&beta;}{2} = \\sqrt{ \\frac{s(s - b)}{ab} } \\)"
 	],
 	"answer": 2,
 	"explanation": ".",
@@ -562,10 +562,10 @@
 	"statement": "$$ sin\\left[ \\frac{&pi;}{2} - cos^{-1}(\\frac{4}{5}) \\right] = ? $$",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{&pi;}{4} $$",
-		"$$ \\frac{&pi;}{2} $$",
-		"$$ -\\frac{1}{2} $$",
-		"$$ \\frac{4}{5} $$"
+		"\\( \\frac{&pi;}{4} \\)",
+		"\\( \\frac{&pi;}{2} \\)",
+		"\\( -\\frac{1}{2} \\)",
+		"\\( \\frac{4}{5} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -575,22 +575,22 @@
 	"statement": "$$ 2tan^{-1}\\left( \\frac{1}{3} \\right) + cot^{-1}(7) = ? $$",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{&pi;}{4} $$",
-		"$$ \\frac{&pi;}{2} $$",
-		"$$ \\frac{&pi;}{3} $$",
-		"$$ \\frac{&pi;}{6} $$"
+		"\\( \\frac{&pi;}{4} \\)",
+		"\\( \\frac{&pi;}{2} \\)",
+		"\\( \\frac{&pi;}{3} \\)",
+		"\\( \\frac{&pi;}{6} \\)"
 	],
 	"answer": 0,
-	"explanation": "$$ 2tan^{-1}(1/3) + cot^{-1}(7) $$ $$ = tan^{-1}(1/3) + tan^{-1}(1/3) + tan^{-1}(1/7).................[R(2)] $$ $$ = tan^{-1}{(1/3 + 1/3)/(1 - 1/3*1/3)} + tan^{-1}(1/7)................[R(1)] $$ $$ = tan^{-1}(2/3*9/8) + tan^{-1}(1/7) $$ $$ = tan^{-1}(3/4) + tan^{-1}(1/7) $$ $$ = tan^{-1}{(3/4+1/7)/(1-3/28)}................{R(1)] $$ $$ = tan^{-1}{(25/28)/(25/28)} $$ $$ = tan^{-1}(1) $$ $$ = pi/4 $$",
+	"explanation": "$$ 2tan^{-1}(1/3) + cot^{-1}(7) $$ $$ = tan^{-1}(1/3) + tan^{-1}(1/3) + tan^{-1}(1/7).................[R(2)] $$ $$ = tan^{-1}{(1/3 + 1/3)/(1 - 1/3*1/3)} + tan^{-1}(1/7)................[R(1)] $$ $$ = tan^{-1}(2/3*9/8) + tan^{-1}(1/7) $$ $$ = tan^{-1}(3/4) + tan^{-1}(1/7) $$ $$ = tan^{-1}{(3/4+1/7)/(1-3/28)}................[R(1)] $$ $$ = tan^{-1}{(25/28)/(25/28)} $$ $$ = tan^{-1}(1) $$ $$ = pi/4 $$",
 	"subject": "math"
 },
 {
 	"statement": "Solution of \\( \\sqrt{3}cos&theta; + sin&theta; = 1 \\) is what?",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{&pi}{2} $$",
-		"$$ \\frac{&pi}{6} $$",
-		"$$ 0 $$",
+		"\\( \\frac{&pi;}{2} \\)",
+		"\\( \\frac{&pi;}{6} \\)",
+		"\\( 0 \\)",
 		"Both (a) and (b)"
 	],
 	"answer": 0,
@@ -640,9 +640,9 @@
 	"statement": "Which one is self-inverse function?",
 	"statement_img": false,
 	"options": [
-		"$$ f(x) = x^{2} $$",
-		"$$ f(x) = x + \\frac{1}{x^{2}} $$",
-		"$$ f(x) = \\frac{1}{x} $$",
+		"\\( f(x) = x^{2} \\)",
+		"\\( f(x) = x + \\frac{1}{x^{2}} \\)",
+		"\\( f(x) = \\frac{1}{x} \\)",
 		"All of these"
 	],
 	"answer": 2,
@@ -692,10 +692,10 @@
 	"statement": "If <strong>x = a(t + sint); y = a(1 - cost)</strong> then \\( \\frac{dy}{dx} = ? \\)",
 	"statement_img": false,
 	"options": [
-		"$$ tan\\frac{t}{2} $$",
-		"$$ cot\\frac{t}{2} $$",
-		"$$ cosec\\frac{t}{2} $$",
-		"$$ sec\\frac{t}{2} $$"
+		"\\( tan\\frac{t}{2} \\)",
+		"\\( cot\\frac{t}{2} \\)",
+		"\\( cosec\\frac{t}{2} \\)",
+		"\\( sec\\frac{t}{2} \\)"
 	],
 	"answer": 0,
 	"explanation": ".",
@@ -718,10 +718,10 @@
 	"statement": "$$ f(x) = -acosx,\\ where\\ g(x) = x^{3}\\ find\\ fog(x). $$",
 	"statement_img": false,
 	"options": [
-		"$$ -asinx^{3} $$",
-		"$$ asinx^{3} $$",
-		"$$ -acosx^{3} $$",
-		"$$ acosx^{3} $$"
+		"\\( -asinx^{3} \\)",
+		"\\( asinx^{3} \\)",
+		"\\( -acosx^{3} \\)",
+		"\\( acosx^{3} \\)"
 	],
 	"answer": 2,
 	"explanation": ".",
@@ -744,10 +744,10 @@
 	"statement": "$$ \\int \\frac{ e^{x} }{ 1 - e^{x} }dx = ? $$",
 	"statement_img": false,
 	"options": [
-		"$$ ln|1 - e^{x}| + c $$",
-		"$$ ln|1 - e^{x}| + e^{x} + c $$",
-		"$$ c - ln|1 - e^{x}| $$",
-		"$$ e^{x} - ln|1 - e^{x}| + c"
+		"\\( ln|1 - e^{x}| + c \\)",
+		"\\( ln|1 - e^{x}| + e^{x} + c \\)",
+		"\\( c - ln|1 - e^{x}| \\)",
+		"\\( e^{x} - ln|1 - e^{x}| + c\\)"
 	],
 	"answer": 2,
 	"explanation": ".",
@@ -757,9 +757,9 @@
 	"statement": "$$ \\int tan(x)dx = ? $$",
 	"statement_img": false,
 	"options": [
-		"$$ ln(cosx) + c $$",
-		"$$ -ln(sinx) + c $$",
-		"$$ ln(sinx) + c $$",
+		"\\( ln(cosx) + c \\)",
+		"\\( -ln(sinx) + c \\)",
+		"\\( ln(sinx) + c \\)",
 		"None of these"
 	],
 	"answer": 3,
@@ -770,10 +770,10 @@
 	"statement": "$$ \\int_{ \\frac{&pi;}{2} }^{ \\frac{&pi;}{2} } cosec^{2}xdx = ? $$",
 	"statement_img": false,
 	"options": [
-		"$$ -\\frac{1}{2} $$",
-		"$$ 0 $$",
-		"$$ \\frac{1}{2} $$",
-		"$$ 1 $$"
+		"\\( -\\frac{1}{2} \\)",
+		"\\( 0 \\)",
+		"\\( \\frac{1}{2} \\)",
+		"\\( 1 \\)"
 	],
 	"answer": 1,
 	"explanation": ".",
@@ -783,10 +783,10 @@
 	"statement": "The length of perpendicular from the origin to a line is 5 units and the inclination of the line is 30&deg;, then equation of line is:",
 	"statement_img": false,
 	"options": [
-		"$$ x - \\sqrt{3}y + 10 = 0 $$",
-		"$$ x + \\sqrt{3}y + 10 = 0 $$",
-		"$$ \\sqrt{3}x + y + 10 = 0 $$",
-		"$$ x - \\sqrt{3}y + 5 = 0 $$"
+		"\\( x - \\sqrt{3}y + 10 = 0 \\)",
+		"\\( x + \\sqrt{3}y + 10 = 0 \\)",
+		"\\( \\sqrt{3}x + y + 10 = 0 \\)",
+		"\\( x - \\sqrt{3}y + 5 = 0 \\)"
 	],
 	"answer": 0,
 	"explanation": ".",
@@ -809,10 +809,10 @@
 	"statement": "The distance of the line \\( x = -\\frac{3}{4} \\) from the point (2, 1) is:",
 	"statement_img": false,
 	"options": [
-		"$$ 11 $$",
-		"$$ \\frac{3}{4} $$",
-		"$$ \\frac{4}{3} $$",
-		"$$ \\frac{11}{4} $$"
+		"\\( 11 \\)",
+		"\\( \\frac{3}{4} \\)",
+		"\\( \\frac{4}{3} \\)",
+		"\\( \\frac{11}{4} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -854,7 +854,7 @@
 		"<img src='' />"
 	],
 	"answer": 2,
-	"explanation": ".",
+	"explanation": "need images here.",
 	"subject": "math"
 },
 {
@@ -874,10 +874,10 @@
 	"statement": "A unit circle lying in III quadrant tangent to both axis is:",
 	"statement_img": false,
 	"options": [
-		"$$ x^{2} + 2x + y^{2} - 2y + 1 = 0 $$",
-		"$$ x^{2} + y^{2} + 2x + 2y + 1 = 0 $$",
-		"$$ x^{2} + 2x + 2y + y^{2} = 0 $$",
-		"$$ x^{2} + y^{2} + x + y + 1 = 0 $$"
+		"\\( x^{2} + 2x + y^{2} - 2y + 1 = 0 \\)",
+		"\\( x^{2} + y^{2} + 2x + 2y + 1 = 0 \\)",
+		"\\( x^{2} + 2x + 2y + y^{2} = 0 \\)",
+		"\\( x^{2} + y^{2} + x + y + 1 = 0 \\)"
 	],
 	"answer": 1,
 	"explanation": ".",
@@ -887,10 +887,10 @@
 	"statement": "What is the tangential distance from origin to the circle <strong>x<sup>2</sup> + y<sup>2</sup> + 4x + 10y + 16 = 0</strong> ?",
 	"statement_img": false,
 	"options": [
-		"$$ \\sqrt{8} $$",
-		"$$ \\sqrt{13} $$",
-		"$$ \\sqrt{2} $$",
-		"$$ 4 $$"
+		"\\( \\sqrt{8} \\)",
+		"\\( \\sqrt{13} \\)",
+		"\\( \\sqrt{2} \\)",
+		"\\( 4 \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -900,10 +900,10 @@
 	"statement": "If \\( -\\sqrt{3}x + y +2\\sqrt{3} - 1 = 0 \\) is tangent to the circle \\( x^{2} + y^{2} = k^{2} \\) then <strong>k = ?</strong>",
 	"statement_img": false,
 	"options": [
-		"$$ \\sqrt{10} $$",
-		"$$ \\frac{1}{\\sqrt{10}} $$",
-		"$$ 2\\sqrt{5} $$",
-		"$$ \\sqrt{5} $$"
+		"\\( \\sqrt{10} \\)",
+		"\\( \\frac{1}{\\sqrt{10}} \\)",
+		"\\( 2\\sqrt{5} \\)",
+		"\\( \\sqrt{5} \\)"
 	],
 	"answer": 0,
 	"explanation": "This one has some mistake.",
@@ -939,10 +939,10 @@
 	"statement": "The distance between foci of \\( \\frac{ x^{2} }{39} + \\frac{ y^{2} }{25} = 1 \\) is:",
 	"statement_img": false,
 	"options": [
-		"$$ 6 $$",
-		"$$ 0 $$",
-		"$$ 10 $$",
-		"$$ 2\\sqrt{14} $$"
+		"\\( 6 \\)",
+		"\\( 0 \\)",
+		"\\( 10 \\)",
+		"\\( 2\\sqrt{14} \\)"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -952,10 +952,10 @@
 	"statement": "The eccentricity of \\( \\frac{ x^{2} }{4} - \\frac{ y^{2} }{12} = 1 \\) is what?",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{ \\sqrt{34} }{4} $$",
-		"$$ \\frac{ \\sqrt{2} }{4} $$",
-		"$$ 2 $$",
-		"$$ \\frac{ \\sqrt{7} }{2} $$"
+		"\\( \\frac{ \\sqrt{34} }{4} \\)",
+		"\\( \\frac{ \\sqrt{2} }{4} \\)",
+		"\\( 2 \\)",
+		"\\( \\frac{ \\sqrt{7} }{2} \\)"
 	],
 	"answer": 2,
 	"explanation": ".",
@@ -965,9 +965,9 @@
 	"statement": "The centre of <strong>xy = 4</strong> is:",
 	"statement_img": false,
 	"options": [
-		"$$ (1, 1) $$",
-		"$$ (\\sqrt{2}, \\sqrt{2}) $$",
-		"$$ (0, 0) $$",
+		"\\( (1, 1) \\)",
+		"\\( (\\sqrt{2}, \\sqrt{2}) \\)",
+		"\\( (0, 0) \\)",
 		"None of these"
 	],
 	"answer": 2,
@@ -978,9 +978,9 @@
 	"statement": "Equation of tangent at (-8, -3) to ellipse \\( \\frac{ x^{2} }{128} + \\frac{ y^{2} }{18} = 1 \\) is:",
 	"statement_img": false,
 	"options": [
-		"$$ 3x + 4y - 1 = 0 $$",
-		"$$ 3x + 8y + 48 = 0 $$",
-		"$$ x + 18y + 4 = 0 $$",
+		"\\( 3x + 4y - 1 = 0 \\)",
+		"\\( 3x + 8y + 48 = 0 \\)",
+		"\\( x + 18y + 4 = 0 \\)",
 		"None"
 	],
 	"answer": 1,
@@ -991,10 +991,10 @@
 	"statement": "What is the slope of common tangents of two conics \\( \\frac{ x^{2} }{16} + \\frac{ y^{2} }{25} = 1 \\) and \\( \\frac{ x^{2} }{25} + \\frac{ y^{2} }{9} = 1 \\) ?",
 	"statement_img": false,
 	"options": [
-		"$$ \\frac{4}{3} $$",
-		"$$ -4 $$",
-		"$$ 3 $$",
-		"$$ \\frac{3}{4} $$"
+		"\\( \\frac{4}{3} \\)",
+		"\\( -4 \\)",
+		"\\( 3 \\)",
+		"\\( \\frac{3}{4} \\)"
 	],
 	"answer": 0,
 	"explanation": ".",
@@ -1030,10 +1030,10 @@
 	"statement": "The magnitude of moment about a point <strong>(-2, 4, -6)</strong> by \\( \\underset{AB}{\\rightarrow} \\) when A(1, 2, -3) and B(3, -4, 2) is?",
 	"statement_img": false,
 	"options": [
-		"$$ \\sqrt{341} $$",
-		"$$ 92 $$",
-		"$$ 8\\hat{i} - 9\\hat{j} + \\hat{k} $$",
-		"$$ \\sqrt{150} $$"
+		"\\( \\sqrt{341} \\)",
+		"\\( 92 \\)",
+		"\\( 8\\hat{i} - 9\\hat{j} + \\hat{k} \\)",
+		"\\( \\sqrt{150} \\)"
 	],
 	"answer": 0,
 	"explanation": ".",
@@ -1243,7 +1243,7 @@
 		"P is proportional to T<sup>2</sup>",
 		"P is proportional to v<sup>2</sup>",
 		"T is proportional to v<sub>rms</sub>",
-		"P is proportional to <V<sup>2</sup>>"
+		"P is proportional to V<sup>2</sup>"
 	],
 	"answer": 3,
 	"explanation": ".",
@@ -1796,7 +1796,7 @@
 	"subject": "physics"
 },
 {
-	"statement": "The frequency of waves in a string 200 Hz. If tension in string is increased 4 time its frequency will be",
+	"statement": "The frequency of waves in a string 200 Hz. If tension in string is increased 4 times, its frequency will be",
 	"statement_img": false,
 	"options": [
 		"800 Hz",
@@ -2219,7 +2219,7 @@
 	"statement_img": false,
 	"options": [
 		"<strong>V</strong>ery <strong>L</strong>ight <strong>S</strong>cale <strong>I</strong>nter-transfer",
-		"<strong>V</strong>ery <strong>L</strong>arge <strong>S</strong>Speed <strong>I</strong>ntegration",
+		"<strong>V</strong>ery <strong>L</strong>arge <strong>S</strong>peed <strong>I</strong>ntegration",
 		"<strong>V</strong>ery <strong>L</strong>ow <strong>S</strong>peed <strong>I</strong>nter-transfer",
 		"<strong>V</strong>ery <strong>L</strong>arge <strong>S</strong>cale <strong>I</strong>ntegration"
 	],
@@ -2293,7 +2293,7 @@
 	"subject": "computer"
 },
 {
-	"statement": "How many bits are used by ASCII to represent data are?",
+	"statement": "How many bits are used by ASCII to represent data?",
 	"statement_img": false,
 	"options": [
 		"2",
@@ -2319,7 +2319,7 @@
 	"subject": "computer"
 },
 {
-	"statement": "The data transmission in which data can transmitted in both directions, but one at a time, is called:",
+	"statement": "The data transmission in which data can be transmitted in both directions, but one at a time, is called:",
 	"statement_img": false,
 	"options": [
 		"Half-duplex",
@@ -2436,7 +2436,7 @@
 	"subject": "computer"
 },
 {
-	"statement": "In C, the header files contain what?",
+	"statement": "In C, the header files contains what?",
 	"statement_img": false,
 	"options": [
 		"Definitions of the functions",
@@ -2462,7 +2462,7 @@
 	"subject": "computer"
 },
 {
-	"statement": "<strong>long</strong> data type in C uses which format specifier?",
+	"statement": "<strong>long</strong> data type, in C, uses which format specifier?",
 	"statement_img": false,
 	"options": [
 		"%l",
