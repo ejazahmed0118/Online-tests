@@ -1,7 +1,6 @@
 [
 {
 	"statement": "Imaginary part of <strong>(2 - <em>i</em>)(3 + <em>i</em>)</strong> is",
-	"statement_img": false,
 	"options": [
 		"-1",
 		"1",
@@ -14,7 +13,6 @@
 },
 {
 	"statement": "What is the area of a rectangular room with the length of <strong>|5 - 3i|</strong> and width <strong>|2i|</strong>?",
-	"statement_img": false,
 	"options": [
 		"6 + 10i",
 		"5 - i",
@@ -27,7 +25,6 @@
 },
 {
 	"statement": "Name the property used in the following inequality:</br>-5 < 0 &xhArr; 5 > 0",
-	"statement_img": false,
 	"options": [
 		"Additive property",
 		"Multiplication property",
@@ -40,7 +37,6 @@
 },
 {
 	"statement": "For two sets A and B, A &Union; B = ?",
-	"statement_img": false,
 	"options": [
 		"A - B",
 		"A &Intersection; (B &Union; A)",
@@ -53,7 +49,6 @@
 },
 {
 	"statement": "Which one of the following is a tautology?",
-	"statement_img": false,
 	"options": [
 		"p ^~ p",
 		"(p &rarr; q) &or; p",
@@ -66,7 +61,6 @@
 },
 {
 	"statement": "If A = {a,b,c,d} and B = {0,1,2,3}, then A &times; B = {(a,0),(b,0),(c,3),(d,3)} is",
-	"statement_img": false,
 	"options": [
 		"A function from B to A",
 		"Into function from A to B",
@@ -79,7 +73,6 @@
 },
 {
 	"statement": "The value of determinant \\( \\begin{vmatrix} b & -1 & a \\\\ a & b & 0 \\\\ 1 & a & b \\end{vmatrix} \\) ?",
-	"statement_img": false,
 	"options": [
 		"0",
 		"a<sup>2</sup> - b<sup>2</sup>",
@@ -92,7 +85,6 @@
 },
 {
 	"statement": "If A = \\( \\begin{bmatrix} 5 & 3 \\\\ 1 & 1 \\end{bmatrix} \\), and AA<sup>-1</sup> = \\( \\begin{bmatrix} x & y \\\\ z & t \\end{bmatrix} \\), then <strong>x + y + z + t = ?</strong>",
-	"statement_img": false,
 	"options": [
 		"1",
 		"0",
@@ -105,7 +97,6 @@
 },
 {
 	"statement": "If the sum of square of an integer and square of its inverse is 2x<sup>2</sup> then integer is?",
-	"statement_img": false,
 	"options": [
 		"2",
 		"1",
@@ -118,7 +109,6 @@
 },
 {
 	"statement": "When x<sup>4</sup> + ax + 1 is divided by (x - 1), remainder is zero than a = ?",
-	"statement_img": false,
 	"options": [
 		"0",
 		"2",
@@ -131,7 +121,6 @@
 },
 {
 	"statement": "Solution set of \\( \\sqrt{x} + 2\\sqrt{x - 9} \\) = 13, is?",
-	"statement_img": false,
 	"options": [
 		"{1}",
 		"{25}",
@@ -144,7 +133,6 @@
 },
 {
 	"statement": "If &alpha;, &beta; are the roots of <strong>2x<sup>2</sup> + 3x + 7 = 0</strong>, then value of &alpha;<sup>2</sup> + &beta;<sup>2</sup> equals to?",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{19}{4} \\)",
 		"\\( -\\frac{19}{49} \\)",
@@ -157,7 +145,6 @@
 },
 {
 	"statement": "If roots of equation <strong>2x<sup>2</sup> - 7x + k = 0</strong> are real, then the possible value of <strong>k</strong> is?",
-	"statement_img": false,
 	"options": [
 		"3",
 		"9",
@@ -170,7 +157,6 @@
 },
 {
 	"statement": "Which one is an identity?",
-	"statement_img": false,
 	"options": [
 		"x<sup>2</sup> - 2x + 1 = x",
 		"x<sup>2</sup> + x = x(x + 1)",
@@ -183,7 +169,6 @@
 },
 {
 	"statement": "The ninth number in the sequence <strong>1, 4, 8, 13,...</strong> is?",
-	"statement_img": false,
 	"options": [
 		"93",
 		"53",
@@ -196,7 +181,6 @@
 },
 {
 	"statement": "Find the second term of A.P., whose 6<sup>th</sup> and 8<sup>th</sup> term are 12 and 22 respectively.",
-	"statement_img": false,
 	"options": [
 		"-13",
 		"-8",
@@ -209,7 +193,6 @@
 },
 {
 	"statement": "The sum of seven A.Ms between 4 and 8 is what?",
-	"statement_img": false,
 	"options": [
 		"84",
 		"56",
@@ -222,7 +205,6 @@
 },
 {
 	"statement": "The sum of the interior angles for a 10 sided polygon is:",
-	"statement_img": false,
 	"options": [
 		"1440&deg;",
 		"360&deg;",
@@ -235,7 +217,6 @@
 },
 {
 	"statement": "The three numbers in A.P., have sum 21 and sum of their squares is 155. The numbers are?",
-	"statement_img": false,
 	"options": [
 		"1,4,9",
 		"5,6,10",
@@ -248,7 +229,6 @@
 },
 {
 	"statement": "If fifth term of G.P. is 48 and common ratio is 2, then the first term is?",
-	"statement_img": false,
 	"options": [
 		"2",
 		"3",
@@ -261,7 +241,6 @@
 },
 {
 	"statement": "Two G.Ms between 20 and 160 are:",
-	"statement_img": false,
 	"options": [
 		"30, 50",
 		"50, 60",
@@ -274,7 +253,6 @@
 },
 {
 	"statement": "$$ \\frac{9}{4} + \\frac{3}{2} + 1 + \\frac{2}{3} + ... &infin; =\\ ? $$",
-	"statement_img": false,
 	"options": [
 		"&infin;",
 		"4",
@@ -287,7 +265,6 @@
 },
 {
 	"statement": "$$ \\sum_{i=1}^{50}(1+i^{2}) =\\ ? $$",
-	"statement_img": false,
 	"options": [
 		"42975",
 		"41275",
@@ -300,7 +277,6 @@
 },
 {
 	"statement": "The number of rational numbers \\( \\frac{p}{q} \\), where p &in; {1,2,3}, q &in; {2,3} are?",
-	"statement_img": false,
 	"options": [
 		"5",
 		"3",
@@ -313,7 +289,6 @@
 },
 {
 	"statement": "Police caught a car with the number <strong>LED 48--</strong> (forgot last 2 digits). In how many possible ways they can guess last two digits?",
-	"statement_img": false,
 	"options": [
 		"20",
 		"720",
@@ -326,7 +301,6 @@
 },
 {
 	"statement": "Three gentlemen and three ladies are candidates for two vacancies. A person has to vote for two candidates. In how many ways he can cast his vote?",
-	"statement_img": false,
 	"options": [
 		"16",
 		"17",
@@ -339,7 +313,6 @@
 },
 {
 	"statement": "Two dice are thrown what is the probability of getting sum of dots even?",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{1}{6} \\)",
 		"\\( \\frac{2}{5} \\)",
@@ -352,7 +325,6 @@
 },
 {
 	"statement": "Find the probability of getting two heads in two consecutive tosses of a coin?",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{1}{8} \\)",
 		"\\( \\frac{1}{6} \\)",
@@ -365,7 +337,6 @@
 },
 {
 	"statement": "If x = 3y and 3x - 2y = 7 then y = ?",
-	"statement_img": false,
 	"options": [
 		"0",
 		"1/2",
@@ -378,7 +349,6 @@
 },
 {
 	"statement": "What is the power of <strong>x</strong> in the third term of expansion of \\( \\left(5x - \\frac{7}{x}\\right)^{5} \\)?",
-	"statement_img": false,
 	"options": [
 		"-1",
 		"0",
@@ -391,7 +361,6 @@
 },
 {
 	"statement": "7<sup>3</sup> - 3<sup>n</sup> is divisible by:",
-	"statement_img": false,
 	"options": [
 		"4",
 		"8",
@@ -404,7 +373,6 @@
 },
 {
 	"statement": "The sum of even binomial coefficients in the expansion of \\( \\left(\\frac{x^{3}}{2} - \\frac{2}{x^{2}} \\right)^{8} \\) is",
-	"statement_img": false,
 	"options": [
 		"256",
 		"128",
@@ -417,7 +385,6 @@
 },
 {
 	"statement": "If x<sup>3</sup> and higher powers can be neglected then find a, b in (1 + x)<sup>1/4</sup> + (1 - x)<sup>1/4</sup> = a - bx<sup>2</sup>.",
-	"statement_img": false,
 	"options": [
 		"\\( 2, 3 \\)",
 		"\\( 2, \\frac{3}{16} \\)",
@@ -430,7 +397,6 @@
 },
 {
 	"statement": "If l = 0.8 cm, and r = 2 cm, then area of sector of circle is:?",
-	"statement_img": false,
 	"options": [
 		"0.8 cm",
 		"0.16 cm",
@@ -443,7 +409,6 @@
 },
 {
 	"statement": "What is the angle between hands of a watch at 5 o'clock?",
-	"statement_img": false,
 	"options": [
 		"160&deg;",
 		"180&deg;",
@@ -456,7 +421,6 @@
 },
 {
 	"statement": "If &alpha; is in 4<sup>th</sup> quadrant, then \\( cos\\frac{&alpha;}{2} =\\ ? \\)",
-	"statement_img": false,
 	"options": [
 		"\\( &PlusMinus;\\sqrt{ \\frac{1 + cos&alpha;}{2} } \\)",
 		"\\( -\\sqrt{ \\frac{1 + cos&alpha;}{2} } \\)",
@@ -469,7 +433,6 @@
 },
 {
 	"statement": "1 + cos<sup>4</sup>&theta; - sin<sup>4</sup>&theta; = ?",
-	"statement_img": false,
 	"options": [
 		"2sin<sup>2</sup>&theta;",
 		"1 - cos<sup>2</sup>&theta;",
@@ -482,7 +445,6 @@
 },
 {
 	"statement": "The amplitude of <strong>-sin(x)cos(x)</strong> is:",
-	"statement_img": false,
 	"options": [
 		"-1",
 		"1/2",
@@ -495,7 +457,6 @@
 },
 {
 	"statement": "If the period of <strong>y = 3cos(kx)</strong> is 6&pi;, then k = ?",
-	"statement_img": false,
 	"options": [
 		"3",
 		"1",
@@ -508,7 +469,6 @@
 },
 {
 	"statement": "The phase shift of <strong>y = sin(4x - 1)</strong> is what?",
-	"statement_img": false,
 	"options": [
 		"\\( 4 \\)",
 		"\\( \\frac{1}{4} \\)",
@@ -521,7 +481,6 @@
 },
 {
 	"statement": "Which one is an equation of asymptotes <strong>y = tan(x)</strong>?",
-	"statement_img": false,
 	"options": [
 		"x = &pi;",
 		"x + &pi;",
@@ -534,7 +493,6 @@
 },
 {
 	"statement": "An isosceles triangle has a vertical angle of 60&deg; and base 20 cm, calculate its altitude.",
-	"statement_img": false,
 	"options": [
 		"\\( \\sqrt{3}\\ cm \\)",
 		"\\( \\frac{\\sqrt{3}}{10}\\ cm \\)",
@@ -547,7 +505,6 @@
 },
 {
 	"statement": "Which one of these formulae is not wrong?",
-	"statement_img": false,
 	"options": [
 		"\\( sin\\frac{&alpha;}{2} = \\sqrt{ \\frac{(s - a)(s - c)}{ac} } \\)",
 		"\\( sin\\frac{&beta;}{2} = \\sqrt{ \\frac{(s - a)(s - b)}{ac} } \\)",
@@ -560,7 +517,6 @@
 },
 {
 	"statement": "$$ sin\\left[ \\frac{&pi;}{2} - cos^{-1}(\\frac{4}{5}) \\right] = ? $$",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{&pi;}{4} \\)",
 		"\\( \\frac{&pi;}{2} \\)",
@@ -573,7 +529,6 @@
 },
 {
 	"statement": "$$ 2tan^{-1}\\left( \\frac{1}{3} \\right) + cot^{-1}(7) = ? $$",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{&pi;}{4} \\)",
 		"\\( \\frac{&pi;}{2} \\)",
@@ -586,7 +541,6 @@
 },
 {
 	"statement": "Solution of \\( \\sqrt{3}cos&theta; + sin&theta; = 1 \\) is what?",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{&pi;}{2} \\)",
 		"\\( \\frac{&pi;}{6} \\)",
@@ -599,7 +553,6 @@
 },
 {
 	"statement": "The range of the function <strong>f(x) = e<sup>x</sup></strong> is:",
-	"statement_img": false,
 	"options": [
 		"[0, &infin;]",
 		"&reals;",
@@ -611,8 +564,7 @@
 	"subject": "math"
 },
 {
-	"statement": "The following curve is of which function?",
-	"statement_img": "url-to-img (on image 4)",
+	"statement": "The following curve is of which function?</br><img src='./images/otests/NET/net.s2.q48.png' />",
 	"options": [
 		"x<sup>2</sup>",
 		"x<sup>4</sup>",
@@ -625,7 +577,6 @@
 },
 {
 	"statement": "$$ \\lim_{x &rarr; 0}\\frac{cos&theta;}{&theta;} = ? $$",
-	"statement_img": false,
 	"options": [
 		"1",
 		"&infin;",
@@ -638,7 +589,6 @@
 },
 {
 	"statement": "Which one is self-inverse function?",
-	"statement_img": false,
 	"options": [
 		"\\( f(x) = x^{2} \\)",
 		"\\( f(x) = x + \\frac{1}{x^{2}} \\)",
@@ -651,7 +601,6 @@
 },
 {
 	"statement": "If <strong>y = sin2x</strong>, then which one of the following is true?",
-	"statement_img": false,
 	"options": [
 		"y = y<sub>4</sub>",
 		"y = 16y<sub>4</sub>",
@@ -664,7 +613,6 @@
 },
 {
 	"statement": "The slope of <strong>f(x) = sinx + cosx</strong> at <strong>x = 0</strong> is",
-	"statement_img": false,
 	"options": [
 		"0",
 		"1",
@@ -677,7 +625,6 @@
 },
 {
 	"statement": "What are two parts of 20, so that the sum of the square will be minimum?",
-	"statement_img": false,
 	"options": [
 		"10, 5",
 		"10, 10",
@@ -690,7 +637,6 @@
 },
 {
 	"statement": "If <strong>x = a(t + sint); y = a(1 - cost)</strong> then \\( \\frac{dy}{dx} = ? \\)",
-	"statement_img": false,
 	"options": [
 		"\\( tan\\frac{t}{2} \\)",
 		"\\( cot\\frac{t}{2} \\)",
@@ -703,7 +649,6 @@
 },
 {
 	"statement": "The maximum value of <strong>x<sub>2</sub> - 2x</strong> in interval [0, 2] is:",
-	"statement_img": false,
 	"options": [
 		"1",
 		"0",
@@ -716,7 +661,6 @@
 },
 {
 	"statement": "$$ f(x) = -acosx,\\ where\\ g(x) = x^{3}\\ find\\ fog(x). $$",
-	"statement_img": false,
 	"options": [
 		"\\( -asinx^{3} \\)",
 		"\\( asinx^{3} \\)",
@@ -729,7 +673,6 @@
 },
 {
 	"statement": "What is the order of the differential equation whose solution is: <strong>x<sup>2</sup> + y<sup>2</sup> + 2gx + 2fy + c = 0</strong>?",
-	"statement_img": false,
 	"options": [
 		"1",
 		"2",
@@ -742,7 +685,6 @@
 },
 {
 	"statement": "$$ \\int \\frac{ e^{x} }{ 1 - e^{x} }dx = ? $$",
-	"statement_img": false,
 	"options": [
 		"\\( ln|1 - e^{x}| + c \\)",
 		"\\( ln|1 - e^{x}| + e^{x} + c \\)",
@@ -755,7 +697,6 @@
 },
 {
 	"statement": "$$ \\int tan(x)dx = ? $$",
-	"statement_img": false,
 	"options": [
 		"\\( ln(cosx) + c \\)",
 		"\\( -ln(sinx) + c \\)",
@@ -768,7 +709,6 @@
 },
 {
 	"statement": "$$ \\int_{ \\frac{&pi;}{2} }^{ \\frac{&pi;}{2} } cosec^{2}xdx = ? $$",
-	"statement_img": false,
 	"options": [
 		"\\( -\\frac{1}{2} \\)",
 		"\\( 0 \\)",
@@ -781,7 +721,6 @@
 },
 {
 	"statement": "The length of perpendicular from the origin to a line is 5 units and the inclination of the line is 30&deg;, then equation of line is:",
-	"statement_img": false,
 	"options": [
 		"\\( x - \\sqrt{3}y + 10 = 0 \\)",
 		"\\( x + \\sqrt{3}y + 10 = 0 \\)",
@@ -794,7 +733,6 @@
 },
 {
 	"statement": "The acute angle between lines represented by <strong>x<sup>2</sup> - xy - 6y<sup>2</sup></strong> is what?",
-	"statement_img": false,
 	"options": [
 		"135&deg;",
 		"30&deg;",
@@ -807,7 +745,6 @@
 },
 {
 	"statement": "The distance of the line \\( x = -\\frac{3}{4} \\) from the point (2, 1) is:",
-	"statement_img": false,
 	"options": [
 		"\\( 11 \\)",
 		"\\( \\frac{3}{4} \\)",
@@ -820,7 +757,6 @@
 },
 {
 	"statement": "For what value of k, the lines <strong>2x - 3y + 4 = 0</strong> and <strong>4x + ky + 1 = 0</strong> will not intersect?",
-	"statement_img": false,
 	"options": [
 		"6",
 		"2",
@@ -833,7 +769,6 @@
 },
 {
 	"statement": "The point that lies below the lines <strong>4x + 5y -3 = 0</strong> is:",
-	"statement_img": false,
 	"options": [
 		"(-2, 4)",
 		"(0, 0)",
@@ -846,20 +781,18 @@
 },
 {
 	"statement": "Which one is convex region?",
-	"statement_img": false,
 	"options": [
-		"<img src='' />",
-		"<img src='' />",
-		"<img src='' />",
-		"<img src='' />"
+		"<img src='./images/otests/NET/net.s2.q66.op0.png' />",
+		"<img src='./images/otests/NET/net.s2.q66.op1.png' />",
+		"<img src='./images/otests/NET/net.s2.q66.op2.png' />",
+		"<img src='./images/otests/NET/net.s2.q66.op3.png' />"
 	],
 	"answer": 2,
-	"explanation": "need images here.",
+	"explanation": "In an Euclidean space, a convex region is a region where, for every pair of points within the region, every point on the straight line segment that joins the pair of points is also within the region.",
 	"subject": "math"
 },
 {
 	"statement": "The function which has to maximize is called:",
-	"statement_img": false,
 	"options": [
 		"Maximum function",
 		"Objective function",
@@ -872,7 +805,6 @@
 },
 {
 	"statement": "A unit circle lying in III quadrant tangent to both axis is:",
-	"statement_img": false,
 	"options": [
 		"\\( x^{2} + 2x + y^{2} - 2y + 1 = 0 \\)",
 		"\\( x^{2} + y^{2} + 2x + 2y + 1 = 0 \\)",
@@ -885,7 +817,6 @@
 },
 {
 	"statement": "What is the tangential distance from origin to the circle <strong>x<sup>2</sup> + y<sup>2</sup> + 4x + 10y + 16 = 0</strong> ?",
-	"statement_img": false,
 	"options": [
 		"\\( \\sqrt{8} \\)",
 		"\\( \\sqrt{13} \\)",
@@ -898,7 +829,6 @@
 },
 {
 	"statement": "If \\( -\\sqrt{3}x + y +2\\sqrt{3} - 1 = 0 \\) is tangent to the circle \\( x^{2} + y^{2} = k^{2} \\) then <strong>k = ?</strong>",
-	"statement_img": false,
 	"options": [
 		"\\( \\sqrt{10} \\)",
 		"\\( \\frac{1}{\\sqrt{10}} \\)",
@@ -911,7 +841,6 @@
 },
 {
 	"statement": "The vertex of parabola <strong>x<sup>2</sup> - 4x - 8y + 4 = 0</strong> is:",
-	"statement_img": false,
 	"options": [
 		"(0, 0)",
 		"(1, 2)",
@@ -924,7 +853,6 @@
 },
 {
 	"statement": "What is the length of latusrectum of parabola with focus (-1, 0) and vertex (-1, 2)?",
-	"statement_img": false,
 	"options": [
 		"1",
 		"8",
@@ -937,7 +865,6 @@
 },
 {
 	"statement": "The distance between foci of \\( \\frac{ x^{2} }{39} + \\frac{ y^{2} }{25} = 1 \\) is:",
-	"statement_img": false,
 	"options": [
 		"\\( 6 \\)",
 		"\\( 0 \\)",
@@ -950,7 +877,6 @@
 },
 {
 	"statement": "The eccentricity of \\( \\frac{ x^{2} }{4} - \\frac{ y^{2} }{12} = 1 \\) is what?",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{ \\sqrt{34} }{4} \\)",
 		"\\( \\frac{ \\sqrt{2} }{4} \\)",
@@ -963,7 +889,6 @@
 },
 {
 	"statement": "The centre of <strong>xy = 4</strong> is:",
-	"statement_img": false,
 	"options": [
 		"\\( (1, 1) \\)",
 		"\\( (\\sqrt{2}, \\sqrt{2}) \\)",
@@ -976,7 +901,6 @@
 },
 {
 	"statement": "Equation of tangent at (-8, -3) to ellipse \\( \\frac{ x^{2} }{128} + \\frac{ y^{2} }{18} = 1 \\) is:",
-	"statement_img": false,
 	"options": [
 		"\\( 3x + 4y - 1 = 0 \\)",
 		"\\( 3x + 8y + 48 = 0 \\)",
@@ -989,7 +913,6 @@
 },
 {
 	"statement": "What is the slope of common tangents of two conics \\( \\frac{ x^{2} }{16} + \\frac{ y^{2} }{25} = 1 \\) and \\( \\frac{ x^{2} }{25} + \\frac{ y^{2} }{9} = 1 \\) ?",
-	"statement_img": false,
 	"options": [
 		"\\( \\frac{4}{3} \\)",
 		"\\( -4 \\)",
@@ -1002,7 +925,6 @@
 },
 {
 	"statement": "The equation <strong>2x<sup>2</sup> - xy + 5x - 2y + 2 = 0</strong> represents a/an:",
-	"statement_img": false,
 	"options": [
 		"Circle",
 		"Ellipse",
@@ -1015,7 +937,6 @@
 },
 {
 	"statement": "The projection of a vector \\( 3\\hat{i} + 4\\hat{j} - 5\\hat{k} \\) along \\( \\hat{k} \\) is:",
-	"statement_img": false,
 	"options": [
 		"3",
 		"-3",
@@ -1028,7 +949,6 @@
 },
 {
 	"statement": "The magnitude of moment about a point <strong>(-2, 4, -6)</strong> by \\( \\underset{AB}{\\rightarrow} \\) when A(1, 2, -3) and B(3, -4, 2) is?",
-	"statement_img": false,
 	"options": [
 		"\\( \\sqrt{341} \\)",
 		"\\( 92 \\)",
@@ -1043,7 +963,6 @@
 
 {
 	"statement": "The first operation involved in carnot cycle is:",
-	"statement_img": false,
 	"options": [
 		"Isothermal expansion",
 		"Adiabatic expansion",
@@ -1056,7 +975,6 @@
 },
 {
 	"statement": "Maximum number of components of vector can be up to?",
-	"statement_img": false,
 	"options": [
 		"One",
 		"Three",
@@ -1069,7 +987,6 @@
 },
 {
 	"statement": "The internal energy of an ideal gas depends upon only:",
-	"statement_img": false,
 	"options": [
 		"Pressure",
 		"Temperature",
@@ -1081,8 +998,7 @@
 	"subject": "physics"
 },
 {
-	"statement": "What can we induce about the object from following v-t graph?",
-	"statement_img": "url-to-img",
+	"statement": "What can we induce about the object from following v-t graph?</br><img src='./images/otests/NET/net.s2.q84.png' />",
 	"options": [
 		"Increasing acceleration",
 		"Deceleration",
@@ -1095,7 +1011,6 @@
 },
 {
 	"statement": "Ballistic missile fails in some circumstances of precision due to",
-	"statement_img": false,
 	"options": [
 		"Their shape",
 		"Air resistance",
@@ -1108,7 +1023,6 @@
 },
 {
 	"statement": "A body in motion always changes its what?",
-	"statement_img": false,
 	"options": [
 		"Acceleration",
 		"Momentum",
@@ -1121,7 +1035,6 @@
 },
 {
 	"statement": "At which angle range of projectile is maximum?",
-	"statement_img": false,
 	"options": [
 		"40&deg;",
 		"30&deg;",
@@ -1134,7 +1047,6 @@
 },
 {
 	"statement": "If a body of mass 2 kg is raised vertically through 2 m, then how much work is done?",
-	"statement_img": false,
 	"options": [
 		"39.2 J",
 		"392.1 J",
@@ -1147,7 +1059,6 @@
 },
 {
 	"statement": "The tides raise the water in the sea approximately how many times a day?",
-	"statement_img": false,
 	"options": [
 		"Once",
 		"Four times",
@@ -1160,7 +1071,6 @@
 },
 {
 	"statement": "What will be the ratio of distance moved by a freely falling body in 4<sup>th</sup> and 5<sup>th</sup> second of its journey?",
-	"statement_img": false,
 	"options": [
 		"4:5",
 		"5:5",
@@ -1173,7 +1083,6 @@
 },
 {
 	"statement": "The angular speed for daily rotation of Earth in <strong>rads<sup>-1</sup></strong> is?",
-	"statement_img": false,
 	"options": [
 		"$$ 7.3 \\times 10^{-5}\\ rads^{-1} $$",
 		"$$ 7.3 \\times 10^{-15}\\ rads^{-1} $$",
@@ -1186,7 +1095,6 @@
 },
 {
 	"statement": "If a wheel of radius <strong>r</strong> turns through an angle of 30&deg;, then the distance through which any point on its rim moves is:",
-	"statement_img": false,
 	"options": [
 		"$$ r\\left( \\frac{&pi;}{6} \\right) $$",
 		"$$ r\\left( \\frac{&pi;}{3} \\right) $$",
@@ -1199,7 +1107,6 @@
 },
 {
 	"statement": "In a nuclear reactor, the turbine for producing electricity is run using",
-	"statement_img": false,
 	"options": [
 		"Solar energy",
 		"Explosion",
@@ -1212,7 +1119,6 @@
 },
 {
 	"statement": "Fundamental frequency of stationary waves in open pipe as compared to frequency in the closed pipe is:",
-	"statement_img": false,
 	"options": [
 		"Same",
 		"Four times",
@@ -1225,7 +1131,6 @@
 },
 {
 	"statement": "The force experienced by a wall on which water strikes normally at a speed of 10 ms<sup>-1</sup> and at a discharge rate of 0.0001 m<sup>3</sup>s<sup>-1</sup> is:",
-	"statement_img": false,
 	"options": [
 		"1 N",
 		"1000 N",
@@ -1238,7 +1143,6 @@
 },
 {
 	"statement": "Which of the following conclusions results only when the ideal gas law and kinetic theory of gases are both considered?",
-	"statement_img": false,
 	"options": [
 		"P is proportional to T<sup>2</sup>",
 		"P is proportional to v<sup>2</sup>",
@@ -1251,7 +1155,6 @@
 },
 {
 	"statement": "The maximum velocity of the spring-mass system is",
-	"statement_img": false,
 	"options": [
 		"$$ x_{o} $$",
 		"$$ x_{o}\\sqrt{ \\frac{k}{m}\\left( 1 - \\frac{ x^{2} }{ x_{o}^{2} } \\right) } $$",
@@ -1264,7 +1167,6 @@
 },
 {
 	"statement": "Keeping the pressure constant, if the temperature of mono-atomic ideal gas is doubled, the average speed of atoms will?",
-	"statement_img": false,
 	"options": [
 		"Increase by a factor of 4",
 		"Increase by a factor of 2",
@@ -1277,7 +1179,6 @@
 },
 {
 	"statement": "The electric field is defined as \\( \\vec{E} = \\frac{ \\vec{F} }{q_{o}} \\), where q<sub>o</sub> is a small positive charge. If instead the definition were in terms of a small negative charge of same magnitude then the newly defined electric field",
-	"statement_img": false,
 	"options": [
 		"would point in the same direction, and have same magnitude.",
 		"would point in the opposite direction, but have the same magnitude.",
@@ -1290,7 +1191,6 @@
 },
 {
 	"statement": "An A.C. series circuit has resistance 4 &ohm; and inductive reactance of 3 &ohm;. The impedance will be",
-	"statement_img": false,
 	"options": [
 		"12 &ohm;",
 		"7 &ohm;",
@@ -1303,7 +1203,6 @@
 },
 {
 	"statement": "What is the self-inductance of the coil in which an induced emf of 2 V is set up when the current changes at the rate of 4 As<sup>-1</sup>?",
-	"statement_img": false,
 	"options": [
 		"0.5 H",
 		"0.2 H",
@@ -1316,7 +1215,6 @@
 },
 {
 	"statement": "There are three bulbs of 600 W, 200 W and 300 W, which bulb has the thickest filament?",
-	"statement_img": false,
 	"options": [
 		"200 W",
 		"600 W",
@@ -1329,7 +1227,6 @@
 },
 {
 	"statement": "A 100 &micro;F capacitor with 12 V battery in series having frequency 50 Hz the capacitive reactance will be:",
-	"statement_img": false,
 	"options": [
 		"75 &ohm;",
 		"16 &ohm;",
@@ -1342,7 +1239,6 @@
 },
 {
 	"statement": "Stopping potential for metal surface in case of photo-electric emission depends on which of the following?",
-	"statement_img": false,
 	"options": [
 		"The frequency of incident light and work function of the metal surface",
 		"The threshold frequency of the metal surface",
@@ -1355,7 +1251,6 @@
 },
 {
 	"statement": "\\( \\frac{N}{C} \\) is equal to:",
-	"statement_img": false,
 	"options": [
 		"$$ \\frac{V}{m} $$",
 		"$$ \\frac{J}{V} $$",
@@ -1368,7 +1263,6 @@
 },
 {
 	"statement": "K.E. of electrons in Coolidge (X-ray) tube is proportional to",
-	"statement_img": false,
 	"options": [
 		"Filament current",
 		"Metallic target's atomic number",
@@ -1381,7 +1275,6 @@
 },
 {
 	"statement": "The half-life of a certain radio isotope is such that 7/8 of the given quantity decays in 12 days. What fraction will be left after 24 days?",
-	"statement_img": false,
 	"options": [
 		"$$ \\frac{1}{4} $$",
 		"$$ \\frac{1}{32} $$",
@@ -1393,8 +1286,7 @@
 	"subject": "physics"
 },
 {
-	"statement": "A body is displaced in a gravitational field as shown in the figure. The work done from A to C is?",
-	"statement_img": "url-to-img",
+	"statement": "A body is displaced in a gravitational field as shown in the figure. The work done from A to C is?</br><img src='./images/otests/NET/net.s2.q108.png' />",
 	"options": [
 		"Greater than the work done from A to C via B",
 		"Equal to the work done from A to C via B",
@@ -1407,7 +1299,6 @@
 },
 {
 	"statement": "Unit of intensity of magnetic induction is:",
-	"statement_img": false,
 	"options": [
 		"NA<sup>-1</sup>m<sup>-1</sup>",
 		"Tesla",
@@ -1420,7 +1311,6 @@
 },
 {
 	"statement": "The output of an XOR gate is 1, if the two inputs are:",
-	"statement_img": false,
 	"options": [
 		"0, 0",
 		"1, 1",
@@ -1433,7 +1323,6 @@
 },
 {
 	"statement": "The dimension of entropy is",
-	"statement_img": false,
 	"options": [
 		"[MLT<sup>-2</sup>]",
 		"[ML<sup>2</sup>T<sup>-2</sup>K]",
@@ -1446,7 +1335,6 @@
 },
 {
 	"statement": "Which of the following cannot be the resultant of vectors of magnitude 6 and 10?",
-	"statement_img": false,
 	"options": [
 		"7",
 		"6",
@@ -1459,7 +1347,6 @@
 },
 {
 	"statement": "The fundamental frequency of stretched string is \\( f = \\frac{1}{2l}\\sqrt{ \\frac{F}{m} } \\), unit of m is:",
-	"statement_img": false,
 	"options": [
 		"kg",
 		"kgm<sup>-1</sup>",
@@ -1472,7 +1359,6 @@
 },
 {
 	"statement": "The reverse of vector addition is called what?",
-	"statement_img": false,
 	"options": [
 		"Vector subtraction",
 		"Negation of vector",
@@ -1485,7 +1371,6 @@
 },
 {
 	"statement": "If height of a projectile is equal to range, the angle of projection is:",
-	"statement_img": false,
 	"options": [
 		"45&deg;",
 		"76&deg;",
@@ -1498,7 +1383,6 @@
 },
 {
 	"statement": "Escape velocity of M kg object is 11 kms<sup>-1</sup>. For 2M kg it is:",
-	"statement_img": false,
 	"options": [
 		"22 kms<sup>-1</sup>",
 		"11 kms<sup>-1</sup>",
@@ -1511,7 +1395,6 @@
 },
 {
 	"statement": "The period of a satellite in an orbit of radius R is T. The period in an orbit of 4R is:",
-	"statement_img": false,
 	"options": [
 		"8T",
 		"4T",
@@ -1524,7 +1407,6 @@
 },
 {
 	"statement": "Angle between linear and angular velocity for circular motion is:",
-	"statement_img": false,
 	"options": [
 		"0&deg;",
 		"180&deg;",
@@ -1537,7 +1419,6 @@
 },
 {
 	"statement": "The maximum dragging force on a falling sphere of 9.8 N is",
-	"statement_img": false,
 	"options": [
 		"4.9 N",
 		"0",
@@ -1550,7 +1431,6 @@
 },
 {
 	"statement": "If a force of 10 N is applied parallel to a moment arm of 8 m, the torque is:",
-	"statement_img": false,
 	"options": [
 		"0.8 Nm",
 		"80 Nm",
@@ -1563,7 +1443,6 @@
 },
 {
 	"statement": "The total weight of balloon is 1500 N. What is the resultant force acting on it when it is rising with constant velocity of 3 ms<sup>-1</sup> ?",
-	"statement_img": false,
 	"options": [
 		"4500 N",
 		"1500 N",
@@ -1576,7 +1455,6 @@
 },
 {
 	"statement": "Volume flow rate of 30 kg water flowing through a pipe in 1 minute is",
-	"statement_img": false,
 	"options": [
 		"5 &times; 10<sup>-3</sup> m<sup>3</sup>s<sup>-1</sup>",
 		"5 &times; 10<sup>-4</sup> m<sup>3</sup>s<sup>-1</sup>",
@@ -1589,7 +1467,6 @@
 },
 {
 	"statement": "A charged particle moves through a magnetic field perpendicular to it. The energy of the particle will:",
-	"statement_img": false,
 	"options": [
 		"Increase",
 		"Decrease",
@@ -1602,7 +1479,6 @@
 },
 {
 	"statement": "1 kWh = 3.6 &times; <em>y</em>. Here y = ?",
-	"statement_img": false,
 	"options": [
 		"10<sup>-3</sup> GJ",
 		"10<sup>-6</sup> GJ",
@@ -1615,7 +1491,6 @@
 },
 {
 	"statement": "If the tensile force is suddenly removed from a wire, then its temperature will",
-	"statement_img": false,
 	"options": [
 		"Decrease",
 		"Increase",
@@ -1628,7 +1503,6 @@
 },
 {
 	"statement": "Impurity is added to a semi-conductor in what ratio?",
-	"statement_img": false,
 	"options": [
 		"10<sup>6</sup> : 1",
 		"1 : 10<sup>6</sup>",
@@ -1641,7 +1515,6 @@
 },
 {
 	"statement": "Angle between coils of three phase supply is:",
-	"statement_img": false,
 	"options": [
 		"360&deg;",
 		"240&deg;",
@@ -1654,7 +1527,6 @@
 },
 {
 	"statement": "A photodiode works",
-	"statement_img": false,
 	"options": [
 		"On reverse biasing",
 		"On forward biasing",
@@ -1667,7 +1539,6 @@
 },
 {
 	"statement": "The power angle &Phi; as calculated from impedance triangle is",
-	"statement_img": false,
 	"options": [
 		"sin&Phi;",
 		"cos&Phi;",
@@ -1680,7 +1551,6 @@
 },
 {
 	"statement": "Which of the following is accompanied by the characteristics of X-ray emission",
-	"statement_img": false,
 	"options": [
 		"&alpha;-particle emission",
 		"Electron emission",
@@ -1693,7 +1563,6 @@
 },
 {
 	"statement": "The virtual mass of photon is:",
-	"statement_img": false,
 	"options": [
 		"$$ m = \\frac{hf}{c} $$",
 		"$$ m = \\frac{ c^{2} }{hf} $$",
@@ -1706,7 +1575,6 @@
 },
 {
 	"statement": "In monochromatic light, human hand will appear",
-	"statement_img": false,
 	"options": [
 		"Black",
 		"White",
@@ -1719,7 +1587,6 @@
 },
 {
 	"statement": "A body falling freely on a planet covers 8 m in 2 s. The time period of one meter long pendulum on this planet will be what?",
-	"statement_img": false,
 	"options": [
 		"1.57 s",
 		"3.14 s",
@@ -1732,7 +1599,6 @@
 },
 {
 	"statement": "The far point for normal eye is",
-	"statement_img": false,
 	"options": [
 		"25 cm",
 		"25 m",
@@ -1745,7 +1611,6 @@
 },
 {
 	"statement": "The wavelength of the fundamental mode of vibration of a closed pipe of length l is:",
-	"statement_img": false,
 	"options": [
 		"l/2",
 		"l",
@@ -1758,7 +1623,6 @@
 },
 {
 	"statement": "A particle is executing SHM. Which of the following is maximum when the bob is at the mean position?",
-	"statement_img": false,
 	"options": [
 		"Time period",
 		"Amplitude",
@@ -1771,7 +1635,6 @@
 },
 {
 	"statement": "A diffraction grating has 5000 lines per cm, the value of grating element is",
-	"statement_img": false,
 	"options": [
 		"2 &times; 10<sup>-2</sup> m",
 		"2 &times; 10<sup>-4</sup> m",
@@ -1784,7 +1647,6 @@
 },
 {
 	"statement": "Maximum velocity of harmonic oscillator of amplitude \\( x_{o} \\) is",
-	"statement_img": false,
 	"options": [
 		"$$ K&omega;\\sqrt{x^{2} - x_{o}^{2}} $$",
 		"$$ &omega;x_{o} $$",
@@ -1797,7 +1659,6 @@
 },
 {
 	"statement": "The frequency of waves in a string 200 Hz. If tension in string is increased 4 times, its frequency will be",
-	"statement_img": false,
 	"options": [
 		"800 Hz",
 		"1600 Hz",
@@ -1810,7 +1671,6 @@
 },
 {
 	"statement": "To get more orders of spectra using a diffraction grating, the wavelength of light should be",
-	"statement_img": false,
 	"options": [
 		"Decrease",
 		"Increase",
@@ -1824,7 +1684,6 @@
 
 {
 	"statement": "The wavelength of which colour is maximum?",
-	"statement_img": false,
 	"options": [
 		"Red",
 		"Green",
@@ -1837,7 +1696,6 @@
 },
 {
 	"statement": "Decomposition of PCL<sub>5</sub> is favoured at",
-	"statement_img": false,
 	"options": [
 		"High pressure",
 		"Low volume",
@@ -1850,7 +1708,6 @@
 },
 {
 	"statement": "Sum of mole fractions of all components in tap-water is",
-	"statement_img": false,
 	"options": [
 		"Slightly less than one",
 		"Slightly greater than one",
@@ -1863,20 +1720,18 @@
 },
 {
 	"statement": "Total number of ions produced by complete ionization of 55 g CaCl<sub>2</sub> is:",
-	"statement_img": false,
 	"options": [
 		"6.02 &times; 10<sup>23</sup>",
 		"3.01 &times; 10<sup>23</sup>",
 		"9.03 &times; 10<sup>23</sup>",
 		"12 &times; 10<sup>23</sup>"
 	],
-	"answer": 0,
-	"explanation": "have to mark its answer",
+	"answer": 1,
+	"explanation": "No. of moles = \\( \\frac{ 55\\ g }{ 110\\ g/mol } \\) = 0.5 mole. Now, 0.5 &times; 6.023 &times; 10<sup>23</sup> = 3.01 &times; 10<sup>23</sup> ions.</br>Note: Actual molar mass of CaCl<sub>2</sub> is 110.98 g/mol.",
 	"subject": "chemistry"
 },
 {
 	"statement": "Which state of matter is more abundant on Earth?",
-	"statement_img": false,
 	"options": [
 		"Gases",
 		"Liquids",
@@ -1889,7 +1744,6 @@
 },
 {
 	"statement": "Total number of orbitals in a sub-shell can be determined by general formula:",
-	"statement_img": false,
 	"options": [
 		"2n<sup>2</sup>",
 		"n<sup>2</sup>",
@@ -1902,7 +1756,6 @@
 },
 {
 	"statement": "In which compound there is least ionic character?",
-	"statement_img": false,
 	"options": [
 		"NaCl",
 		"MgCl<sub>2</sub>",
@@ -1915,7 +1768,6 @@
 },
 {
 	"statement": "For solution that posses more than two components, which concentration unit is used?",
-	"statement_img": false,
 	"options": [
 		"Molarity",
 		"Molality",
@@ -1928,7 +1780,6 @@
 },
 {
 	"statement": "The aqueous solution of which one the following is acidic?",
-	"statement_img": false,
 	"options": [
 		"Sodium Acetate",
 		"Sodium Chloride",
@@ -1941,7 +1792,6 @@
 },
 {
 	"statement": "Total lone pairs at carbon atom in carbon monoxide molecule are?",
-	"statement_img": false,
 	"options": [
 		"One",
 		"Two",
@@ -1954,7 +1804,6 @@
 },
 {
 	"statement": "Which gas is produced by the reaction of Copper and dilute Nitric acid?",
-	"statement_img": false,
 	"options": [
 		"Dinitrogen Oxide",
 		"Nitrogen Oxide",
@@ -1967,7 +1816,6 @@
 },
 {
 	"statement": "Reaction of alcoholic KOH with ethyl chloride gives us:",
-	"statement_img": false,
 	"options": [
 		"Ethanol",
 		"Ethene",
@@ -1980,7 +1828,6 @@
 },
 {
 	"statement": "The nitration of which compound is more easy?",
-	"statement_img": false,
 	"options": [
 		"Chlorobenzene",
 		"Benzene",
@@ -1993,7 +1840,6 @@
 },
 {
 	"statement": "Which is the weakest acid among the following?",
-	"statement_img": false,
 	"options": [
 		"CH<sub>3</sub>COOH",
 		"F-CH<sub>2</sub>COOH",
@@ -2006,7 +1852,6 @@
 },
 {
 	"statement": "Which is used for treatment of acidity of stomach?",
-	"statement_img": false,
 	"options": [
 		"Ca(OH)<sub>2</sub>",
 		"BaO",
@@ -2019,20 +1864,18 @@
 },
 {
 	"statement": "Which compound gives fumes in air?",
-	"statement_img": false,
 	"options": [
 		"P<sub>2</sub>O<sub>5</sub>",
 		"NaOH",
 		"PCl",
 		"P<sub>4</sub>O<sub>10</sub>"
 	],
-	"answer": 0,
-	"explanation": "have to mark its answer",
+	"answer": 1,
+	"explanation": "",
 	"subject": "chemistry"
 },
 {
 	"statement": "In which pair do both pollutants cause damage to buildings?",
-	"statement_img": false,
 	"options": [
 		"Carbon Monoxide and Lead compounds",
 		"Nitrogen Dioxide and Lead compounds",
@@ -2045,7 +1888,6 @@
 },
 {
 	"statement": "The colour of transition metal complexes is due to what?",
-	"statement_img": false,
 	"options": [
 		"d-d transitions of electrons",
 		"Paramagnetic nature of transition element",
@@ -2058,7 +1900,6 @@
 },
 {
 	"statement": "Dichromates can be converted into chromates on adding:",
-	"statement_img": false,
 	"options": [
 		"Acid",
 		"Base",
@@ -2071,7 +1912,6 @@
 },
 {
 	"statement": "Which of the following is the strongest acid?",
-	"statement_img": false,
 	"options": [
 		"CH<sub>4</sub>",
 		"NH<sub>3</sub>",
@@ -2084,7 +1924,6 @@
 },
 {
 	"statement": "The addition of which salt will have the greatest effect on raising the boiling point of water assuming complete ionization?",
-	"statement_img": false,
 	"options": [
 		"CaCl<sub>2</sub>",
 		"KCl",
@@ -2097,7 +1936,6 @@
 },
 {
 	"statement": "The -NH-CO group is called amide linkage which exists in",
-	"statement_img": false,
 	"options": [
 		"Carbohydrates",
 		"Nylon 6,6",
@@ -2110,7 +1948,6 @@
 },
 {
 	"statement": "Conversion of n-hexane into benzene is called",
-	"statement_img": false,
 	"options": [
 		"Isomerization",
 		"Aromatization",
@@ -2123,7 +1960,6 @@
 },
 {
 	"statement": "1.8 g of fructose in 9 g water has mole fraction:",
-	"statement_img": false,
 	"options": [
 		"1/5",
 		"1/51",
@@ -2136,20 +1972,18 @@
 },
 {
 	"statement": "In the reaction <strong>2Fe + 3Cl<sub>2</sub> &rarr; 2FeCl<sub>2</sub></strong>,",
-	"statement_img": false,
 	"options": [
 		"Cl<sub>2</sub> is oxidized",
 		"Fe is reduced",
 		"Fe is oxidized",
 		"Cl<sub>2</sub> is reducing agent"
 	],
-	"answer": 0,
-	"explanation": "have to mark its answer",
+	"answer": 2,
+	"explanation": "For this, remember <strong>OILRIG</strong>. <strong>O</strong>xidation <strong>i</strong>s <strong>l</strong>oss (of electrons). <strong>R</strong>eduction <strong>i</strong>s <strong>g</strong>ain.</br>Fe went from 0 to +3, so it was oxidized. Cl went from 0 to -1 so it was reduced. So Cl is the oxidizing agent (since it got reduced) and <strong>Fe is the reducing agent (since it got oxidized)</strong>.",
 	"subject": "chemistry"
 },
 {
 	"statement": "The rate equation for a reaction is Rate = k[A]. What are the units of k?",
-	"statement_img": false,
 	"options": [
 		"mol<sup>-1</sup>dm<sup>3</sup>s<sup>-1</sup>",
 		"mol.dm<sup>-3</sup>s<sup>-1</sup>",
@@ -2162,7 +1996,6 @@
 },
 {
 	"statement": "Half-life period of a first order reaction is independent of",
-	"statement_img": false,
 	"options": [
 		"Presence of catalyst",
 		"Conditions of temperature",
@@ -2175,7 +2008,6 @@
 },
 {
 	"statement": "If the concentration of a reactant is tripled, the reaction rate will be",
-	"statement_img": false,
 	"options": [
 		"At least 3 times faster",
 		"4 times faster",
@@ -2183,12 +2015,11 @@
 		"Cannot be predicted without rate law"
 	],
 	"answer": 0,
-	"explanation": "have to mark its answer",
+	"explanation": "",
 	"subject": "chemistry"
 },
 {
 	"statement": "Which oxide is insoluble in water?",
-	"statement_img": false,
 	"options": [
 		"BeO",
 		"Na<sub>2</sub>O",
@@ -2201,7 +2032,6 @@
 },
 {
 	"statement": "The partial pressure of O<sub>2</sub> in the lungs is 116 torr while that in the atmosphere is",
-	"statement_img": false,
 	"options": [
 		"159 torr",
 		"259 torr",
@@ -2216,7 +2046,6 @@
 
 {
 	"statement": "<strong>VLSI</strong> stands for what?",
-	"statement_img": false,
 	"options": [
 		"<strong>V</strong>ery <strong>L</strong>ight <strong>S</strong>cale <strong>I</strong>nter-transfer",
 		"<strong>V</strong>ery <strong>L</strong>arge <strong>S</strong>peed <strong>I</strong>ntegration",
@@ -2229,7 +2058,6 @@
 },
 {
 	"statement": "Cache memory was introduced in which generation?",
-	"statement_img": false,
 	"options": [
 		"First",
 		"Second",
@@ -2242,7 +2070,6 @@
 },
 {
 	"statement": "To store an alphabet or an alphanumeric character in the computer's memory, how many bits are required?",
-	"statement_img": false,
 	"options": [
 		"2",
 		"8",
@@ -2255,7 +2082,6 @@
 },
 {
 	"statement": "Registers are part of the:",
-	"statement_img": false,
 	"options": [
 		"CPU",
 		"RAM",
@@ -2268,7 +2094,6 @@
 },
 {
 	"statement": "In a star topology, the nodes are connected to a common:",
-	"statement_img": false,
 	"options": [
 		"Bus",
 		"Central Wire",
@@ -2281,7 +2106,6 @@
 },
 {
 	"statement": "The fifth layer of OSI model is:",
-	"statement_img": false,
 	"options": [
 		"Network layer",
 		"Application layer",
@@ -2294,7 +2118,6 @@
 },
 {
 	"statement": "How many bits are used by ASCII to represent data?",
-	"statement_img": false,
 	"options": [
 		"2",
 		"4",
@@ -2307,7 +2130,6 @@
 },
 {
 	"statement": "To convert digital signals to analog and vice versa, which electronic component is used?",
-	"statement_img": false,
 	"options": [
 		"Switch",
 		"Modem",
@@ -2320,7 +2142,6 @@
 },
 {
 	"statement": "The data transmission in which data can be transmitted in both directions, but one at a time, is called:",
-	"statement_img": false,
 	"options": [
 		"Half-duplex",
 		"Simplex",
@@ -2333,7 +2154,6 @@
 },
 {
 	"statement": "Radio buttons offers a list of",
-	"statement_img": false,
 	"options": [
 		"Associated options",
 		"Mutually exclusive options",
@@ -2346,7 +2166,6 @@
 },
 {
 	"statement": "Which one of the following is a part of modern operating systems?",
-	"statement_img": false,
 	"options": [
 		"Kernel",
 		"Command-line Interface",
@@ -2359,7 +2178,6 @@
 },
 {
 	"statement": "The protocol used to transfer files through a network is:",
-	"statement_img": false,
 	"options": [
 		"HTTP",
 		"SSH",
@@ -2372,7 +2190,6 @@
 },
 {
 	"statement": "The shortcut-key combination to add a chart in MS-Excel is:",
-	"statement_img": false,
 	"options": [
 		"Ctrl + Alt + C",
 		"Alt + F1",
@@ -2385,7 +2202,6 @@
 },
 {
 	"statement": "The shortcut-key for Save As command is:",
-	"statement_img": false,
 	"options": [
 		"Ctrl + Alt + S",
 		"Ctrl + Shift + D",
@@ -2398,7 +2214,6 @@
 },
 {
 	"statement": "In RDBMS, a <strong>relation</strong> is what?",
-	"statement_img": false,
 	"options": [
 		"A table",
 		"A function",
@@ -2411,7 +2226,6 @@
 },
 {
 	"statement": "Which query is used to insert new records?",
-	"statement_img": false,
 	"options": [
 		"INSERT",
 		"APPEND",
@@ -2424,7 +2238,6 @@
 },
 {
 	"statement": "Which object, in MS-Access, is used to display and enter records?",
-	"statement_img": false,
 	"options": [
 		"Table",
 		"Query",
@@ -2437,7 +2250,6 @@
 },
 {
 	"statement": "In C, the header files contains what?",
-	"statement_img": false,
 	"options": [
 		"Definitions of the functions",
 		"Body of the functions",
@@ -2450,7 +2262,6 @@
 },
 {
 	"statement": "In C++, most common method to get user input is:",
-	"statement_img": false,
 	"options": [
 		"scanf()",
 		"input()",
@@ -2463,7 +2274,6 @@
 },
 {
 	"statement": "<strong>long</strong> data type, in C, uses which format specifier?",
-	"statement_img": false,
 	"options": [
 		"%l",
 		"%ld",
@@ -2476,7 +2286,6 @@
 },
 {
 	"statement": "In C, which of the following functions is used to clear the screen?",
-	"statement_img": false,
 	"options": [
 		"clrscr()",
 		"clear()",
@@ -2489,7 +2298,6 @@
 },
 {
 	"statement": "<strong>break</strong> statement is used in",
-	"statement_img": false,
 	"options": [
 		"Functions",
 		"If-Else conditions",
@@ -2502,7 +2310,6 @@
 },
 {
 	"statement": "<strong><=</strong> is which type of operator?",
-	"statement_img": false,
 	"options": [
 		"Arithmetic",
 		"Relational",
@@ -2515,7 +2322,6 @@
 },
 {
 	"statement": "Which one of the following is increment operator?",
-	"statement_img": false,
 	"options": [
 		"a++",
 		"++a",
@@ -2528,7 +2334,6 @@
 },
 {
 	"statement": "<strong>for</strong> loop is used to repeat a set of instructions:",
-	"statement_img": false,
 	"options": [
 		"Required number of times",
 		"Until a condition is satisfied",
@@ -2541,7 +2346,6 @@
 },
 {
 	"statement": "In C, how many loops are available?",
-	"statement_img": false,
 	"options": [
 		"3",
 		"2",
@@ -2554,7 +2358,6 @@
 },
 {
 	"statement": "In a function definition, where do you list the function arguments?",
-	"statement_img": false,
 	"options": [
 		"In-between { and }",
 		"In-between ( and )",
@@ -2567,7 +2370,6 @@
 },
 {
 	"statement": "Which of the following function stops the progress of a program until a key is pressed?",
-	"statement_img": false,
 	"options": [
 		"getch()",
 		"pause()",
@@ -2580,7 +2382,6 @@
 },
 {
 	"statement": "User-defined functions are",
-	"statement_img": false,
 	"options": [
 		"designed by the user",
 		"designed by the OS/language",
@@ -2593,7 +2394,6 @@
 },
 {
 	"statement": "A loop inside another loop is called what?",
-	"statement_img": false,
 	"options": [
 		"Conjugated Loop",
 		"Mixed Loop",
@@ -2608,7 +2408,6 @@
 
 {
 	"statement": "Nina usually gets good grades, but her score on the last test was",
-	"statement_img": false,
 	"options": [
 		"common",
 		"competitive",
@@ -2621,7 +2420,6 @@
 },
 {
 	"statement": "The house was built using ____ materials: wood, steel, concrete, brick, stone, and tile.",
-	"statement_img": false,
 	"options": [
 		"cheap",
 		"a variety of",
@@ -2634,7 +2432,6 @@
 },
 {
 	"statement": "Some plants need full sunlight, while others ____ partial exposure to the sun.",
-	"statement_img": false,
 	"options": [
 		"require",
 		"choose",
@@ -2647,7 +2444,6 @@
 },
 {
 	"statement": "The ____ book in the series contains the story's long-awaited ____.",
-	"statement_img": false,
 	"options": [
 		"final, plot",
 		"best, conflict",
@@ -2660,7 +2456,6 @@
 },
 {
 	"statement": "Eren has many friends at school. He is very ____.",
-	"statement_img": false,
 	"options": [
 		"popular",
 		"intelligent",
@@ -2673,7 +2468,6 @@
 },
 {
 	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Spy : Information</strong>",
-	"statement_img": false,
 	"options": [
 		"Robber : Banks",
 		"Embezzler : Funds",
@@ -2686,7 +2480,6 @@
 },
 {
 	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Hurricane : Wind</strong>",
-	"statement_img": false,
 	"options": [
 		"Ripple : Ocean",
 		"Lightning : Clouds",
@@ -2699,7 +2492,6 @@
 },
 {
 	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Funny : Hilarious</strong>",
-	"statement_img": false,
 	"options": [
 		"Superficial : Reduced",
 		"Hungry : Ravenous",
@@ -2712,7 +2504,6 @@
 },
 {
 	"statement": "Select the pair that best expresses a relationship similar to the following:</br><strong>Salutation : Letter</strong>",
-	"statement_img": false,
 	"options": [
 		"Appendix : Book",
 		"Reference : Citation",
@@ -2725,7 +2516,6 @@
 },
 {
 	"statement": "The antonym of <strong>Debacle</strong> is:",
-	"statement_img": false,
 	"options": [
 		"Philanthropist",
 		"Fiasco",
@@ -2738,7 +2528,6 @@
 },
 {
 	"statement": "The antonym of <strong>Superfluous</strong> is:",
-	"statement_img": false,
 	"options": [
 		"Diminishing",
 		"Sufficient",
@@ -2751,7 +2540,6 @@
 },
 {
 	"statement": "The synonym of <strong>Atrophy</strong> is:",
-	"statement_img": false,
 	"options": [
 		"Lose leaves",
 		"Soften",
@@ -2764,7 +2552,6 @@
 },
 {
 	"statement": "The synonym of <strong>Resilience</strong> is:",
-	"statement_img": false,
 	"options": [
 		"Submission",
 		"Quietly",
@@ -2777,7 +2564,6 @@
 },
 {
 	"statement": "The synonym of <strong>Analogy</strong> is:",
-	"statement_img": false,
 	"options": [
 		"Similarity",
 		"Transposition",
@@ -2790,7 +2576,6 @@
 },
 {
 	"statement": "\"The events for the conference were listed in <strong>chronological</strong> order.\"</br>The word written in bold means what?",
-	"statement_img": false,
 	"options": [
 		"Out of order",
 		"Descending",
@@ -2803,7 +2588,6 @@
 },
 {
 	"statement": "\"There was crazy pandemonium as people were trying to leave the hall.\"</br>The word written in bold means what?",
-	"statement_img": false,
 	"options": [
 		"Silence",
 		"Crowd",
@@ -2816,7 +2600,6 @@
 },
 {
 	"statement": "\"The man was sent to the penitentiary for stealing cars.\"</br>The word written in bold means what?",
-	"statement_img": false,
 	"options": [
 		"Office",
 		"Court",
@@ -2829,7 +2612,6 @@
 },
 {
 	"statement": "The manager is <strong><u>responsible</u></strong> for the work of every person in this office.",
-	"statement_img": false,
 	"options": [
 		"Verb",
 		"Adjective",
@@ -2842,7 +2624,6 @@
 },
 {
 	"statement": "I can work <strong><u>faster</u></strong> without any help.",
-	"statement_img": false,
 	"options": [
 		"Adverb",
 		"Adjective",
@@ -2855,7 +2636,6 @@
 },
 {
 	"statement": "Which of these is the correct spelling?",
-	"statement_img": false,
 	"options": [
 		"Procede",
 		"Proseed",
@@ -2870,7 +2650,6 @@
 
 {
 	"statement": "What will be the missing alphabets ACB, DFE, GIH, ____",
-	"statement_img": false,
 	"options": [
 		"LJK",
 		"JLK",
@@ -2883,7 +2662,6 @@
 },
 {
 	"statement": "If 4 apples and 6 oranges cost Rs. 68, and 7 apples and 9 oranges cost Rs. 107, what is the cost of one orange?",
-	"statement_img": false,
 	"options": [
 		"Rs. 5",
 		"Rs. 8",
@@ -2896,7 +2674,6 @@
 },
 {
 	"statement": "Which is the odd one out?",
-	"statement_img": false,
 	"options": [
 		"Abraham Lincoln",
 		"Muhammad Ali Jinnah",
@@ -2909,7 +2686,6 @@
 },
 {
 	"statement": "If 7<sup>th</sup> of April falls 2 days preceding Wednesday, what day of the week will follow the 20<sup>th</sup> of the month?",
-	"statement_img": false,
 	"options": [
 		"Friday",
 		"Saturday",
@@ -2922,7 +2698,6 @@
 },
 {
 	"statement": "Find the missing alphabet:<table><tr><td>C</td><td>F</td><td>I</td></tr><tr><td>E</td><td>J</td><td>O</td></tr><tr><td>A</td><td>J</td><td></td></tr></table>",
-	"statement_img": false,
 	"options": [
 		"R",
 		"Q",
@@ -2935,7 +2710,6 @@
 },
 {
 	"statement": "A and B are brothers. Y is X's brother but X is the the mother of A. What is X to B?",
-	"statement_img": false,
 	"options": [
 		"Brother",
 		"Son in law",
@@ -2948,7 +2722,6 @@
 },
 {
 	"statement": "A man travels 10 miles North. Then turns right and travels 5 miles. Again turns right and travels 8 miles. What is his direction now?",
-	"statement_img": false,
 	"options": [
 		"West",
 		"East",
@@ -2961,7 +2734,6 @@
 },
 {
 	"statement": "Which number should logically replace the question marks <strong>6, 7, 7, 9, 18, 21, 63, ?</strong>.",
-	"statement_img": false,
 	"options": [
 		"252",
 		"96",
@@ -2974,7 +2746,6 @@
 },
 {
 	"statement": "The value of <strong>2 + 2 &times; 2 / 2</strong> is:",
-	"statement_img": false,
 	"options": [
 		"8",
 		"4",
@@ -2987,7 +2758,6 @@
 },
 {
 	"statement": "A man begins climbing a hill. Every minute he ascends 15 m but slips 2 m. How long will he take to ascend a point 80 m high?",
-	"statement_img": false,
 	"options": [
 		"6 minutes",
 		"5 minutes",
