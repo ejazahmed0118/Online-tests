@@ -1084,10 +1084,10 @@
 {
 	"statement": "The angular speed for daily rotation of Earth in <strong>rads<sup>-1</sup></strong> is?",
 	"options": [
-		"$$ 7.3 \\times 10^{-5}\\ rads^{-1} $$",
-		"$$ 7.3 \\times 10^{-15}\\ rads^{-1} $$",
-		"$$ 7.3 \\times 10^{5}\\ rads^{-1} $$",
-		"$$ 7.3 \\times 10^{15}\\ rads^{-1} $$"
+		"\\( 7.3 \\times 10^{-5}\\ rads^{-1} \\)",
+		"\\( 7.3 \\times 10^{-15}\\ rads^{-1} \\)",
+		"\\( 7.3 \\times 10^{5}\\ rads^{-1} \\)",
+		"\\( 7.3 \\times 10^{15}\\ rads^{-1} \\)"
 	],
 	"answer": 0,
 	"explanation": ".",
@@ -1096,10 +1096,10 @@
 {
 	"statement": "If a wheel of radius <strong>r</strong> turns through an angle of 30&deg;, then the distance through which any point on its rim moves is:",
 	"options": [
-		"$$ r\\left( \\frac{&pi;}{6} \\right) $$",
-		"$$ r\\left( \\frac{&pi;}{3} \\right) $$",
-		"$$ \\left( \\frac{&pi;}{30r} \\right) $$",
-		"$$ \\left( \\frac{&pi;}{180r} \\right) $$"
+		"\\( r\\left( \\frac{&pi;}{6} \\right) \\)",
+		"\\( r\\left( \\frac{&pi;}{3} \\right) \\)",
+		"\\( \\left( \\frac{&pi;}{30r} \\right) \\)",
+		"\\( \\left( \\frac{&pi;}{180r} \\right) \\)"
 	],
 	"answer": 0,
 	"explanation": ".",
@@ -1156,10 +1156,10 @@
 {
 	"statement": "The maximum velocity of the spring-mass system is",
 	"options": [
-		"$$ x_{o} $$",
-		"$$ x_{o}\\sqrt{ \\frac{k}{m}\\left( 1 - \\frac{ x^{2} }{ x_{o}^{2} } \\right) } $$",
-		"$$ x_{o}\\sqrt{ \\frac{k}{m} } $$",
-		"$$ \\frac{ v_{o} }{ \\sqrt{2} } $$"
+		"\\( x_{o} \\)",
+		"\\( x_{o}\\sqrt{ \\frac{k}{m}\\left( 1 - \\frac{ x^{2} }{ x_{o}^{2} } \\right) } \\)",
+		"\\( x_{o}\\sqrt{ \\frac{k}{m} } \\)",
+		"\\( \\frac{ v_{o} }{ \\sqrt{2} } \\)"
 	],
 	"answer": 2,
 	"explanation": ".",
@@ -1252,9 +1252,9 @@
 {
 	"statement": "\\( \\frac{N}{C} \\) is equal to:",
 	"options": [
-		"$$ \\frac{V}{m} $$",
-		"$$ \\frac{J}{V} $$",
-		"$$ \\frac{A}{m} $$",
+		"\\( \\frac{V}{m} \\)",
+		"\\( \\frac{J}{V} \\)",
+		"\\( \\frac{A}{m} \\)",
 		"None of these"
 	],
 	"answer": 0,
@@ -1276,10 +1276,10 @@
 {
 	"statement": "The half-life of a certain radio isotope is such that 7/8 of the given quantity decays in 12 days. What fraction will be left after 24 days?",
 	"options": [
-		"$$ \\frac{1}{4} $$",
-		"$$ \\frac{1}{32} $$",
-		"$$ \\frac{1}{64} $$",
-		"$$ \\frac{1}{128} $$"
+		"\\( \\frac{1}{4} \\)",
+		"\\( \\frac{1}{32} \\)",
+		"\\( \\frac{1}{64} \\)",
+		"\\( \\frac{1}{128} \\)"
 	],
 	"answer": 2,
 	"explanation": ".",
@@ -1564,9 +1564,9 @@
 {
 	"statement": "The virtual mass of photon is:",
 	"options": [
-		"$$ m = \\frac{hf}{c} $$",
-		"$$ m = \\frac{ c^{2} }{hf} $$",
-		"$$ m = \\frac{hf}{ c^{2} } $$",
+		"\\( m = \\frac{hf}{c} \\)",
+		"\\( m = \\frac{ c^{2} }{hf} \\)",
+		"\\( m = \\frac{hf}{ c^{2} } \\)",
 		"0"
 	],
 	"answer": 2,
@@ -1648,10 +1648,10 @@
 {
 	"statement": "Maximum velocity of harmonic oscillator of amplitude \\( x_{o} \\) is",
 	"options": [
-		"$$ K&omega;\\sqrt{x^{2} - x_{o}^{2}} $$",
-		"$$ &omega;x_{o} $$",
-		"$$ &omega;\\sqrt{x_{o}^{2} - x^{2}} $$",
-		"$$ &omega;/x_{o} $$"
+		"\\( K&omega;\\sqrt{x^{2} - x_{o}^{2}} \\)",
+		"\\( &omega;x_{o} \\)",
+		"\\( &omega;\\sqrt{x_{o}^{2} - x^{2}} \\)",
+		"\\( &omega;/x_{o} \\)"
 	],
 	"answer": 1,
 	"explanation": ".",
