@@ -8,7 +8,7 @@
 		"7"
 	],
 	"answer": 0,
-	"explanation": "",
+	"explanation": " Just used the farmula <strong>(a+bi)(c+di)=(ac-bd)+i(ad+cb)</strong> ",
 	"subject": "math"
 },
 {
@@ -20,7 +20,7 @@
 		"\\( 2\\sqrt{34} \\)"
 	],
 	"answer": 3,
-	"explanation": ".",
+	"explanation": " We know <strong> area of of rectangula = width * Length</strong> <br> so used used detributive law and multiply 2i with (5-3i) then take the modulus of answer   ",
 	"subject": "math"
 },
 {
